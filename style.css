@@ -1,0 +1,591 @@
+/* Reset e base */
+body, html {
+  margin: 0;
+  padding: 0;
+  font-family: 'Playfair Display', serif;
+  background-color: #8efffd/* azzurro pallido */
+}
+
+/* Top countdown */
+.top-bar {
+  text-align: center;
+  padding: 20px;
+}
+
+.countdown {
+  font-size: 1.8rem;
+  font-weight: 700;
+  color: #003366;
+}
+
+/* Navbar */
+.navbar {
+  background-color: #75d8da;
+  padding: 10px 0;
+  text-align: center;
+}
+
+.navbar ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.navbar li {
+  margin: 0 10px;
+}
+
+.navbar a {
+  text-decoration: none;
+  color: #003366;
+  font-weight: 600;
+}
+
+/* Container messaggio */
+.container {
+  width: 80%;
+  margin: 40px auto;
+  text-align: center;
+  
+}
+
+/* Slider */
+.slider {
+  margin-top: 20px;
+  font-size: 2rem;
+  min-height: 100px;
+  color: #003366;
+
+}
+
+.slider-controls{
+    position: relative;
+
+}
+.mainMessage{
+    text-align: left;
+
+}
+#messageSlider{
+    display: flex;
+    flex-direction: column;
+    justify-content: left;
+    align-items: flex-start;
+    padding: 1rem 50px;
+   
+}
+.slider-controls div {
+  font-size: 2rem;
+  margin: 10px;
+  padding: 5px 15px;
+  cursor: pointer;
+  border-radius: 50%;
+  background-color: #0368c1e4;
+  color:white;
+  width: 20px;
+  height: 40px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+}
+#playlist{
+    /* From https://css.glass */
+background: rgba(255, 255, 255, 0.2);
+border-radius: 16px;
+box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+backdrop-filter: blur(5px);
+-webkit-backdrop-filter: blur(5px);
+border: 1px solid rgba(255, 255, 255, 0.3);
+padding: 20px;
+position: relative;
+}
+.playlist{
+    width: 100%;
+    text-align: center;
+    
+}
+#prevDay {
+position: absolute;
+top:0;
+left:10px;
+}
+#nextDay {
+    position: absolute;
+top:0;
+right:10px;
+
+}
+
+#sliderDate{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: white;
+    width: 100px;
+    margin: 0 auto;
+    padding:1rem;
+    border-radius: 0.5rem;
+}
+
+.calendar{
+    background: rgba(36, 255, 177, 1);
+padding:1rem;
+border-radius: 0.6rem;
+/* From https://css.glass */
+
+box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+backdrop-filter: blur(9.5px);
+-webkit-backdrop-filter: blur(9.5px);
+border: 1px solid rgba(165, 246, 255, 0.57);
+position: relative;
+}
+/* Griglia card */
+.coupons-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill,minmax(150px,1fr));
+  gap: 20px;
+  margin-top: 20px;
+}
+
+/* Card front/back */
+.coupon-card {
+  background-color: #ffffff;
+  border-radius: 10px;
+  padding: 15px;
+  text-align: center;
+  cursor: pointer;
+  position: relative;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+  transition: transform 0.3s, opacity 0.3s;
+}
+
+.coupon-card.locked {
+  opacity: 0.5;
+  pointer-events: auto; /* blocca hover solo se vuoi */
+}
+
+/* Popup ingrandita */
+.popup {
+  display: none;
+  position: fixed;
+  z-index: 999;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  overflow: auto;
+  background-color: rgba(0,0,0,0.6);
+}
+
+.popup-content {
+  background-color: #fff;
+  margin: 10% auto;
+  padding: 20px;
+  border-radius: 12px;
+  width: 80%;
+  max-width: 500px;
+  text-align: center;
+  position: relative;
+}
+
+.close {
+  position: absolute;
+  top: 10px;
+  right: 15px;
+  font-size: 2rem;
+  cursor: pointer;
+}
+.fortune-container {
+  text-align: center;
+}
+
+#fortuneCookie {
+  width: 200px;
+  cursor: pointer;
+  transition: transform 0.3s;
+}
+
+#fortuneCookie:hover {
+  transform: scale(1.1);
+}
+
+#fortuneMessage {
+  margin-top: 20px;
+  opacity: 0;
+  transition: opacity 0.5s ease;
+  font-style: italic;
+  color:white;
+  font-size: 20px;
+}
+.song-enter {
+  opacity: 0;
+  transform: translateX(-40px);
+}
+
+.song-enter-active {
+  opacity: 1;
+  transform: translateX(0);
+  transition: all 0.4s ease;
+}
+
+.song-exit {
+  opacity: 1;
+  transform: translateX(0);
+}
+
+.song-exit-active {
+  opacity: 0;
+  transform: translateX(800px);
+  transition: all 0.4s ease;
+}
+a:any-link {
+  text-decoration: none;
+}
+
+#fortuneMessage.show {
+  opacity: 1;
+}
+#playlistInfo, #songsSlider {
+  text-align: left;
+  margin: 15px 0;
+  /* From https://css.glass */
+color: white;
+background: rgba(54, 54, 54, 0.7);
+border-radius: 16px;
+box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+backdrop-filter: blur(5.8px);
+-webkit-backdrop-filter: blur(5.8px);
+border: 1px solid rgba(255, 255, 255, 0.84);
+padding: 1rem;
+}
+.duo-container {
+  display: flex;
+  position: relative;
+}
+
+.duo-box {
+  width: 50%;
+  text-align: center;
+  padding:0 160px;
+}
+
+.duo-box.left {
+  background-color: #ffcccc;
+}
+
+.duo-box.right {
+  background-color: #cc4444;
+  color: white;
+}
+
+.duo-box img {
+  width: 120px;
+  cursor: pointer;
+  transition: transform 0.3s;
+}
+
+.duo-box img:hover {
+  transform: scale(1.1);
+}
+
+.duo-box p {
+  margin-top: 15px;
+  opacity: 0;
+  transition: opacity 0.4s;
+}
+
+.duo-box p.show {
+  opacity: 1;
+}
+.utility-container {
+  display: flex;
+  justify-content: space-between;
+  gap: 20px;
+  position: relative;
+}
+
+.utility-box {
+  width: 33%;
+  text-align: center;
+}
+
+.utility-box img {
+  width: 90px;
+  cursor: pointer;
+  transition: transform 0.3s;
+}
+
+.utility-box img:hover {
+  transform: scale(1.1);
+}
+
+.utility-box span {
+  display: block;
+  margin-top: 10px;
+  opacity: 0;
+  transition: opacity 0.4s;
+}
+#cose{
+    border:solid 3px;
+    border-radius: 0.6rem;
+    position:relative;
+    overflow: hidden;
+}
+.utility-box span.show {
+  opacity: 1;
+}
+#btnUtility1{
+    cursor: pointer;
+border-radius: 0.4rem;
+background: #ffcccc;
+padding: 1rem;
+width: 8rem;
+margin: auto;
+font-size: 18px;
+}
+#btnUtility3{
+    cursor: pointer;
+    border-radius: 0.4rem;
+background: #cc4444;
+padding: 1rem;
+width: 8rem;
+margin: auto;
+font-size: 18px;
+}
+.coin {
+  margin: 20px auto;
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  background: gold;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-weight: bold;
+  font-size: 1.2rem;
+  transition: transform 1s ease;
+}
+.stile-container {
+  display: flex;
+  justify-content: space-between;
+  gap: 20px;
+  margin-top: 10px;
+}
+
+.stile-left, .stile-right {
+  flex: 1;
+  text-align: center;
+}
+
+#stileSanoText, #stileInversoText {
+  margin: 10px;
+  font-style: italic;
+  font-size: 20px;
+  color: black;
+  transition: all 0.3s ease;
+}
+
+.show {
+  color: #0055aa;
+  font-weight: bold;
+}
+.quotes-slider {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  margin-top: 10px;
+}
+
+.quote-display {
+  border-radius: 0.6rem;
+background-color: #1ffff5ff;
+width: 1000px;
+  text-align: center;
+  padding: 10px;
+}
+
+#quoteText {
+  font-size: 1.1rem;
+  margin-bottom: 5px;
+  transition: all 0.3s ease;
+}
+
+#quoteSource {
+  color: #555;
+  transition: all 0.3s ease;
+}
+
+.show {
+  color: #0055aa;
+  font-weight: bold;
+}
+
+.h1password{
+    text-align: center;
+    font-size: 22px;
+    padding: 2rem;
+}
+
+.h2password{
+    text-align: left;
+     font-size: 20px;
+     text-wrap: wrap;
+     padding:1rem 2rem;
+/* From https://css.glass */
+background: rgba(255, 255, 255, 0.37);
+box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+backdrop-filter: blur(11.1px);
+-webkit-backdrop-filter: blur(11.1px);
+border: 1px solid rgba(255, 255, 255, 0.31);    
+ border-radius: 1rem;
+     margin: 0 1rem;
+     height: 300px;
+}
+
+.pass{
+    display: flex;
+    
+    align-items: center;
+    justify-content: center;
+}
+
+#stile{
+padding: 2rem;
+background-color: #78fdb6;
+border-radius: 0.7rem;
+position: relative;
+min-height: 250px;
+}
+.passwordOverlay{
+  position: fixed;
+  top: 0; left: 0;
+  width: 100vw; height: 100vh;
+  color: rgb(0, 0, 0);
+  background-image: url(./assets/ChatGPT\ Image\ 2\ apr\ 2026\,\ 19_21_00.png);
+  background-repeat: no-repeat;
+background-size: cover;
+background-position-y:  -200px; ;
+  /* Overlay scuro */
+
+
+
+box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+
+  z-index: 9999;
+}
+#passwordMessage{
+  color:black !important;
+
+}
+.pandaStile{
+ position: absolute;
+top: 30px;
+left: -120px;
+height: 380px;
+}
+.pandaMessage{
+position: absolute;
+bottom: -85px;
+left: 33%;
+height: 280px;}
+
+.pandaUtility{
+position: absolute;
+bottom: -140px;
+right: -210px;
+height: 580px;
+}
+
+.pandaCalendar{
+position: absolute;
+bottom: -140px;
+left: -450px;
+height: 380px;
+}
+
+.jumbo2{
+  height: 400px;
+  width: 100%;
+  background-image: url(https://wallpapercat.com/w/full/4/e/9/185978-3840x2160-desktop-4k-moon-background-photo.jpg);
+  background-attachment: fixed;
+  background-position: center;
+  background-size: cover;
+}
+
+#biglietti{
+  background-image: url(https://static.vecteezy.com/system/resources/previews/001/236/997/non_2x/simple-and-beautiful-chinese-pattern-vector.jpg);
+  background-size: contain;
+  text-align: center;
+  padding: 2rem;
+}
+
+.footer{
+  background-color: rgb(34, 34, 34);
+color: white;
+display: flex;
+font-size: 16px;
+justify-content: space-around;
+border-top: solid rgb(79, 255, 255) 8px;
+  align-items: center;
+}
+
+.credits{
+  width: 30%;
+  font-size: 12px;
+}
+.footerMessage{
+  
+  width: 45%;
+}
+.flirt {
+  position:absolute;
+  bottom:100px;
+  right:100px;
+  width:200px;
+  height:200px;
+  cursor:pointer;
+  font-size: 24px;
+justify-content: center;
+  display: flex;
+  align-items: center;
+  background:url('assets/heart1.png') center/contain no-repeat;
+  transition: transform 0.2s;
+}
+
+/* immagine sopra */
+.hoverlay {
+  position:absolute;
+  transform: translate(60px ,-80px );
+    
+
+  inset:0;
+  width:100%;
+  height:100%;
+  object-fit:contain;
+  opacity:0;
+  pointer-events:none;
+}
+
+.jumbo{
+  height: 400px;
+  width: 100%;
+  background-image: url(https://wallpapers.com/images/featured/sunset-dadicpsu85pdw66r.jpg);
+  background-attachment: fixed;
+  background-position: center;
+  background-size: cover;
+}
+.messaggioSerio{
+  /* From https://css.glass */
+  padding:2rem 4rem;
+background: rgba(0, 0, 0, 0.9);
+box-shadow: 0 4px 30px rgba(0, 0, 0, 0.486);
+backdrop-filter: blur(10.1px);
+-webkit-backdrop-filter: blur(10.1px);
+border: 1px solid rgba(0, 0, 0, 0.3);
+color:white
+}

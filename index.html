@@ -1,0 +1,315 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>AuguriClaudia_CM_MC</title>
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <!-- Overlay password -->
+<div id="passwordOverlay" class="passwordOverlay" > 
+<h1 class="h1password">Benvenuta,<br> 
+    Questo spazio digitale è un pezzetto di un cuore a cui si è provato a dare forma.<br>
+    Il suo creatore ha lasciato questo messaggio:
+</h1>
+<p class="h2password">
+    
+<br>
+    Ho voluto cercare un modo di scattare una fotografia di ciò che provo per una persona.<br>
+    Questo è un pezzetto del mio cuore.<br>
+    Potrai visitarlo quando vuoi, e anche se cambierà nel tempo,sara' sempre più o meno quello.<br>
+    Ho provato a metterci dentro il possibile nel poco tempo a disposizione, non sono io
+    ma spero sia abbastanza da ricordarti che siamo famiglia <br>e farti sentire la mia presenza sempre al tuo fianco,
+    anche se siamo lontani o siamo impegnati, anche se ci salutiamo ogni tanto.<br>
+    
+    
+    Spero tu possa sempre sentirti a casa e tra le mie braccia entrando in questo piccolo spazio che ho voluto creare per te,<br>
+    è immaturo e infantile alle volte, un po' come me, ma pieno di amicizia, impegno, speranza, dolcezza e amore. 
+    <br>Ricordati ogni giorno quanto tu sia importante, ti voglio bene.
+
+</p>
+<div class="pass">
+
+<div>
+  <h2>Inserisci la password</h2>
+  <input type="password" id="passwordInput" placeholder="Password">
+  <button id="passwordButton">Accedi</button>
+  <p id="passwordMessage" style="color:red; margin-top:10px;"></p>
+</div>
+</div>
+</div> 
+
+  <!-- Countdown -->
+  <div class="top-bar" >
+    <div class="countdown" id="countdown"></div>
+  </div>
+
+  <!-- Navbar COMPLETA -->
+  <nav class="navbar">
+    <ul>
+      
+      <li><a href="#playlist">Playlist</a></li>
+      <li><a href="#quotes">Citazioni</a></li>
+      <li><a href="#stile">Stile di vita</a></li>
+      <li><a href="#Utility">Utility tool</a></li>
+      <li><a href="#complimenti">Complimenti/insulti</a></li>
+      <li><a href="#biglietti">Biglietti della fortuna</a></li>
+      <li><a href="#cose">Cose da fare insieme</a></li>
+      <li><a href="#buoni">I tuoi Coupon</a></li>
+    </ul>
+  </nav>
+
+  <!-- Messaggio -->
+
+  <div class="container calendar">
+          <img class="pandaCalendar" src="assets/panda3.png" alt="">
+<div class="flirt">
+  <p>Click me</p>
+  <img class="hoverlay" src="assets/heart4.png" />
+</div>
+    <H4>Ogni giorno, un messaggio per te (due), più una bella canzone che almeno una volta nella vita è stata dedicata a te.</H4>
+<br>
+    <div class="slider-controls">
+      <div id="prevDay">‹</div>
+      <div id="nextDay">›</div>
+    </div>
+
+    <div class="message-section">
+             <h2 id="sliderDate"></h2>
+      
+ 
+      <div class="slider" id="messageSlider">
+        
+
+      </div>
+    </div>
+  </div>
+<div class="jumbo">
+</div>  <!-- stile di vita -->
+<div class="container" id="stile">
+  <img class="pandaStile" src="assets/panda1.png" alt="">
+  <h2>Stile di vita</h2>
+  <p>Un consiglio e una strunzata</p>
+  <br>
+  <div class="stile-container">
+    <div class="stile-left">
+      <p id="stileSanoText">Clicca sul pulsante per un consiglio sano!</p>
+    </div>
+    <div class="stile-right">
+        <p id="stileInversoText">Clicca sul pulsante per un consiglio ironico!</p>
+    </div>
+  </div>
+  <div style="text-align:center; margin-top:10px;">
+    <button id="stileButton">Mostra consiglio</button>
+  </div>
+</div>
+
+
+
+
+  <div class="container" id="quotes">
+  <h2>Frasi interessanti da Serie che magari non vedrai mai, ma potrebbero essere belle frasi per te.</h2>
+  <div class="quotes-slider">
+    <button id="prevQuote">‹</button>
+    <div class="quote-display">
+      <p id="quoteText">La citazione apparirà qui...</p>
+      <p id="quoteSource" style="font-style:italic; font-size:0.9rem;">Fonte</p>
+    </div>
+    <button id="nextQuote">›</button>
+  </div>
+</div>
+  <!-- 🍪 Biscotto -->
+  <div  id="biglietti">
+    <h2>Prendi un biscotto della fortuna</h2>
+
+    <div class="fortune-container">
+      <img src="assets/cookie.png" id="fortuneCookie">
+      <p id="fortuneMessage"></p>
+    </div>
+  </div>
+  <!-- sezione playlist -->
+<div class="container" id="playlist">
+
+  <h1>Playlist pensate per te</h1>
+
+  <!-- Slider Playlist -->
+  <div class="playlist-slider-controls">
+    <button id="prevPlaylist">‹</button>
+    <button id="nextPlaylist">›</button>
+  </div>
+
+  <div id="playlistInfo"></div>
+
+  <!-- Slider Canzoni -->
+  <div class="songs-slider-controls">
+    <button id="prevSong">‹</button>
+    <button id="nextSong">›</button>
+  </div>
+
+  <div id="songsSlider"></div>
+</div>
+<div class="container" id="complimenti">
+  <h2>Complimenti / Insulti</h2>
+
+  <div class="duo-container">
+      <img class="pandaMessage" src="assets/girasoli.png" alt="">
+
+    
+    <!-- SINISTRA -->
+    <div class="duo-box left">
+      <img src="assets/complimenti.png" id="btnComplimenti">
+      <p id="textComplimenti"></p>
+    </div>
+
+    <!-- DESTRA -->
+    <div class="duo-box right">
+      <img src="assets/insulti.png" id="btnInsulti">
+      <p id="textInsulti"></p>
+    </div>
+
+  </div>
+</div>
+
+<div class="container" id="Utility">
+  <h2>Utility tool</h2>
+
+  <div class="utility-container">
+
+    <!-- TOOL 1 -->
+    <div class="utility-box">
+      <div id="btnUtility1">
+      <p>Ce la faccio?</p></div>
+      <span id="outUtility1"></span>
+    </div>
+
+    <!-- TOOL 2 -->
+    <div class="utility-box">
+
+        <p>Scegli:</p>
+        <button id="btnTesta">Testa</button>
+        <button id="btnCroce">Croce</button>
+
+        <div class="coin" id="coin">
+            <p id="coinText">guess</p>
+        </div>
+
+        
+
+        <span id="outUtility2"></span>
+    </div>
+
+    <!-- TOOL 3 -->
+    <div class="utility-box">
+      <div id="btnUtility3">
+      <p>Se ti serve un 3</p></div>
+      <span id="outUtility3"></span>
+    </div>
+
+  </div>
+</div>
+<div class="jumbo2">
+</div> 
+<div class="messaggioSerio" >
+  Ei Claudietta, qui giu diventiamo un pò più seri.
+  <br>
+  Ti volevo ricordare che ti voglio un mondo di bene ,sai quanto.
+  <br>
+  Ci sarò sempre per te, finche sarò in vita.
+  <br>
+  Voglio vederti felice, forte e piena di grinta, affrontiamo la vita e diamoci da fare. 
+  <br>C'è tanto ancora che dobbiamo vedere, copriamoci le spalle a vicenda quando serve e godiamoci il viaggio incredibile che abbiamo davanti!.</div>
+  <!-- Cose da fare -->
+  <div class="container" id="cose">
+  <img class="pandaUtility" src="assets/panda2.png" alt="">
+
+    <h2>Cose da fare insieme</h2>
+    <h4>Magari non tutte,magari si</h4>
+    <P>Cose che non abbiamo ancora fatto, ma che confido un giorno possano succedere.
+      <hr/>
+    </P>
+    <ul id="coseDaFareList"></ul>
+  </div>
+
+<!-- <div class="container" id="filmsSection">
+  <h1>Film e Serie TV</h1> -->
+
+  <!-- Filtri -->
+  <!-- <div class="filters">
+    <label>Durata:
+      <select id="filterDuration">
+        <option value="all">Tutte</option>
+        <option value="normale">Normale</option>
+        <option value="lungo">Lungo</option>
+        <option value="ti accompagna mesi">Ti accompagna mesi</option>
+      </select>
+    </label>
+
+    <label>Mood:
+      <select id="filterMood">
+        <option value="all">Tutti</option>
+        <option value="leggero">Leggero</option>
+        <option value="misto">Misto</option>
+        <option value="concentrato">Concentrato</option>
+      </select>
+    </label>
+  </div> -->
+
+  <!-- Slider film
+  <div class="films-slider">
+    <button id="prevFilm">‹</button>
+    <div class="film-content" id="filmDisplay"> -->
+      <!-- Film/serie mostrati qui -->
+    <!-- </div>
+    <button id="nextFilm">›</button>
+  </div> -->
+<!-- </div> -->
+  <!-- Coupon -->
+  <div class="container" id="buoni">
+    <div class="BonusSection">
+      <h2>I tuoi coupon</h2>
+      
+      <div class="coupons-grid" id="couponsGrid"></div>
+    </div>
+  </div>
+
+  <!-- Popup -->
+  <div id="couponPopup" class="popup">
+    <div class="popup-content">
+      <span id="closePopup" class="close">&times;</span>
+      <h3 id="popupTitle"></h3>
+      <p id="popupDescription"></p>
+      <p id="popupInfo"></p>
+    </div>
+  </div>
+
+
+  <div class="footer">
+    <div class="credits">
+      <ul>
+        <li>Per info e modifiche contattare M</li>
+        <hr>
+        <li>Sito costantemente in aggiornamento</li>
+        <hr>
+
+        <li>Nuove funzioni e nuovi contenuti a sorpresa</li>
+      </ul>
+    </div>
+    <div class="footerMessage">
+      <P>
+        Dedicato ad una persona speciale, forte, intelligente, bella e da amare con tutta la passione del mondo.
+        <br>
+        Con qualche difetto, ma perfetta.
+        <br>
+        Cerca di volerti bene e sii orgogliosa di te stessa!
+      </P>
+    </div>
+
+  </div>
+
+  <script src="store.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>
