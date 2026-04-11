@@ -53,7 +53,7 @@ function showSlide(dayKey) {
         <a href="${data.playlist.url}" target="_blank"> 
                <p style="text-align:center;font-size:18px; ;margin-bottom:0">${data.playlist.title}</p>
 
-          <img src="${thumbnail}" style="width:300px; margin-top:10px; border-radius:8px;">
+          <img src="${thumbnail}" class="playlistImage" style="">
         </a>` : ""}  
         <a href="${data.playlist.url}" target="_blank">
       </a>
