@@ -396,12 +396,12 @@ const STORE = {
      "03-30": {
       mainMessage: "Buongiorno, la canzone di oggi è il rickroll, pero leggi il testo oh",
       marcoMessage: "E gia, non ti deluderò mai, non ti abbandonerò mai, non ti lascerò mai, non ti tradirò mai",
-      playlist: { title: "Never Gonna Give You Up, Rick Asley", url: "https://www.youtube.com/watch?v=7FwDP17XPlk" }
+      playlist: { title: "Never  Give You Up, Rick Asley", url: "https://www.youtube.com/watch?v=7FwDP17XPlk" }
     }
     ,"04-01": {
       mainMessage: "A chi facciamo uno cherzo oggi?",
       marcoMessage: "Buondì, non pensarci nemmeno!",
-      playlist: { title: "Treasure, Bruno Mars", url: "https://www.youtube.com/watch?v=nPvuNsRccVw&list=RDnPvuNsRccVw&start_radio=1" }
+      playlist: { title: "", url: "" }
     },"04-03": {
       mainMessage: "Curiosità, il 4 aprile il Cina si celebra il Qingming / Festa dei Morti, un giorno in cui si onora il passato e si vive il presente",
       marcoMessage: "Domani che si fa? ho sentito che è un giorno speciale",
@@ -428,7 +428,7 @@ const STORE = {
      "04-08": {
       mainMessage: "Se il peso del fallimento dovesse mai farti visita, portalo con orgoglio come prova che ci hai provato.",
       marcoMessage: "Forza cla, non c'è sconfitta se non si molla ",
-      playlist: { title: "Passengers, Let her go", url: "https://www.youtube.com/watch?v=4KTJ5qy8XWs" }
+      playlist: { title: "Treasure, Bruno Mars", url: "https://www.youtube.com/watch?v=nPvuNsRccVw&list=RDnPvuNsRccVw&start_radio=1" }
     },
     
     
@@ -439,8 +439,8 @@ const STORE = {
     },
     
      "04-10": {
-      mainMessage: "Buongiorno, stai diventando qualcuno più forte di chi eri ieri, non avere fretta!",
-      marcoMessage: "I fiori più belli sbocciano al momento giusto, e io so che tu sei in fioritura",
+       mainMessage: "Comunicazione di servizio: il mondo ha bisogno di te.",
+      marcoMessage: "Devi essere super.",
       playlist: { title: "You are Beautiful , James Blunt", url: "https://www.youtube.com/watch?v=M_q82PPHduI" }
     },
     "04-11": {
@@ -450,9 +450,9 @@ const STORE = {
     },
 
      "04-12": {
-      mainMessage: "Ciao Bellissima, Sii gentile, non lasciare che il mondo ti renda crudele",
+      mainMessage: "Ciao Bellissima, Sii gentile, non lasciare che il mondo ti renda dubbiosa",
       marcoMessage: "C'è amarezza in questo mondo, ma sei dolce abbastanza da contrastarla",
-      playlist: { title: "", url: "" }
+      playlist: { title: "Passengers, Let her go", url: "https://www.youtube.com/watch?v=4KTJ5qy8XWs" }
     },
     "04-13": {
       mainMessage: "Meteo di oggi: 100% probabilità di riuscirci e incazzarsi comunque.",
@@ -474,14 +474,20 @@ const STORE = {
       marcoMessage: "Che è meglio.",
       playlist: { title: "It could Have been Me, the struts", url: "https://www.youtube.com/watch?v=ARhk9K_mviE" }
     },
+    "04-18": {
+      mainMessage: "So che non ti piace sentirlo (chi ti crede), anche oggi penso a te e il cuore mi batte più forte",
+      marcoMessage: "Che soggetto che sono madò, cosa mi hai fatto diventare...    Un Looser..",
+      playlist: { title: "Looser, charlie puth", url: "https://www.youtube.com/watch?v=0NXUj7dJ6tM" }
+    },
     "04-19": {
       mainMessage: "Messaggio del giorno: sei una bella persona, dentro e fuori.",
       marcoMessage: "condivido.",
       playlist: { title: "What Lovers Do, Maroon 5", url: "https://www.youtube.com/watch?v=5Wiio4KoGe8" }
     },
     "04-21": {
-      mainMessage: "Comunicazione di servizio: il mondo ha bisogno di te.",
-      marcoMessage: "Devi essere super.",
+         mainMessage: "Buongiorno, stai diventando qualcuno più forte di chi eri ieri, non avere fretta!",
+      marcoMessage: "I fiori più belli sbocciano al momento giusto, e io so che tu sei in fioritura",
+     
       playlist: { title: "Wings, Armand Van Helden (non ti deludero più)", url: "https://www.youtube.com/watch?v=Gh6JkwZ-5QM" }
     },
     "04-23": {
@@ -496,7 +502,7 @@ const STORE = {
     },
     "04-27": {
       mainMessage: "ue, come va? Quanto sei bella, datti da fare e sorridi un po",
-      marcoMessage: "lascio i po senza accento così sai che scrivo io ahah",
+      marcoMessage: "lascio i po senza apostrofo così sai che scrivo io ahah",
       playlist: { title: "Sunflower, Post Malone", url: "https://www.youtube.com/watch?v=ApXoWvfEYVU" }
     },
     "04-29": {
@@ -534,11 +540,11 @@ const STORE = {
     },
     "05-11": {
       mainMessage: "Nah vedi chi si vede, sei stupenda cla, buongiorno!",
-      marcoMessage: "Coraggio, un altra giornata a nostra disposizione",
+      marcoMessage: "Coraggio, un'altra giornata a nostra disposizione",
       playlist: { title: "I cant feel my face, the weekend", url: "https://www.youtube.com/watch?v=QC2FoaT7Yb8" }
     },  "05-12": {
       mainMessage: "Vesak / Buddah day! sembra una puttanata ma è vero ",
-      marcoMessage: "Buongiorno, che figo buddah, medita un po oggi magari!",
+      marcoMessage: "Buongiorno, che figo buddah, medita un po'oggi magari!",
       playlist: { title: "Hey Brother, Avicii ", url: "https://www.youtube.com/watch?v=YxIiPLVR6NA" }
     },
     "05-13": {
@@ -691,13 +697,13 @@ const STORE = {
       playlist: { title: "I could be the one, Avicii", url: "https://www.youtube.com/watch?v=fZcScHIS7Sg" }
     },
      "07-11": {
-      mainMessage: "Buongiorno, ti senti un po a casa con me?",
+      mainMessage: "Buongiorno, ti senti un po'a casa con me?",
       marcoMessage: "Io con te mi sento sempre a casa, dove volevo essere",
       playlist: { title: "Clock, Coldplay", url: "https://www.youtube.com/watch?v=3A3hgfstCxE" }
     },
      "07-13": {
       mainMessage: "Ciao Cla, come va? la vita va bene oggi?",
-      marcoMessage: "Non ti va di stare un po con me? dai fatti sentire, ti canto una canzone se vuoi",
+      marcoMessage: "Non ti va di stare un po'con me? dai fatti sentire, ti canto una canzone se vuoi",
       playlist: { title: "Stand by Me, Ben E. King", url: "https://www.youtube.com/watch?v=7rZyI7kPZMI" }
     },
      "07-14": {
@@ -726,7 +732,7 @@ const STORE = {
       playlist: { title: "I Wanna be yours, Artic Monkeys", url: "https://www.youtube.com/watch?v=fukGbiPuBjU" }
     },
      "07-19": {
-      mainMessage: "Buongiorno, certe giornate hanno un energia speciale, oggi sentitela così",
+      mainMessage: "Buongiorno, certe giornate hanno un'anergia speciale, oggi sentitela così",
       marcoMessage: "Realizziamo un sogno, ti va?",
       playlist: { title: "You make my dreams, Daryl hall & john Othes", url: "https://www.youtube.com/watch?v=49BQKU5wflk" }
     },
@@ -741,7 +747,7 @@ const STORE = {
       playlist: { title: "You shook me all night long, ACDC", url: "https://www.youtube.com/watch?v=PAvZ__zwiyM" }
     },
      "07-25": {
-      mainMessage: "Ei, raccontami un po qualcosa, voglio risvegliare qualche emozione oggi!",
+      mainMessage: "Ei, raccontami un po'qualcosa, voglio risvegliare qualche emozione oggi!",
       marcoMessage: "Facciamolo, siamo bravi a farlo",
       playlist: { title: "More than a feeling, Boston", url: "https://www.youtube.com/watch?v=gwIQpmXc_ZA" }
     },
@@ -756,7 +762,7 @@ const STORE = {
       playlist: { title: "This Love, Maroon 5", url: "https://www.youtube.com/watch?v=Tt7KcLSvjBU" }
     },
      "07-31": {
-      mainMessage: "Mi ricordi perchè ci allontaniamo ogni tanto? Uffa mi manchi, Buongiorno!",
+      mainMessage: "Mi ricordi perché ci allontaniamo ogni tanto? Uffa mi manchi, Buongiorno!",
       marcoMessage: "secondo me colpa tua...",
       playlist: { title: "Wish you were here, Pink Floyd", url: "https://www.youtube.com/watch?v=ZVcU9m488e4" }
     }
@@ -839,7 +845,7 @@ const STORE = {
     
     ,
      "08-21": {
-      mainMessage: "Buongiorno, Ma quanto ho voglia di un po di anguria!",
+      mainMessage: "Buongiorno, Ma quanto ho voglia di un po'di anguria!",
       marcoMessage: "Mi fai dare un morso cla?",
       playlist: { title: "Watermelon sugar, Harry Styles", url: "https://www.youtube.com/watch?v=dZwffaluIgg" }
     },
@@ -855,7 +861,7 @@ const STORE = {
     },
      "08-26": {
       mainMessage: "Buondì, fai una bella colazione e mettiamocela tutta, è il momento di darsi da fare!",
-      marcoMessage: "Mi fai un po compagnia oggi?",
+      marcoMessage: "Mi fai un po'compagnia oggi?",
       playlist: { title: "Someone you loved, Luis Capaldi", url: "https://www.youtube.com/watch?v=u1yVCeXYya4" }
     },
      "08-27": {
@@ -879,7 +885,7 @@ const STORE = {
       playlist: { title: "", url: "" }
     },
      "09-04": {
-      mainMessage: "Buongiorno, ricordati che solo perchè ci vuole tempo non vuol dire che non stia funzionando",
+      mainMessage: "Buongiorno, ricordati che solo perché ci vuole tempo non vuol dire che non stia funzionando",
       marcoMessage: "Continua cosi, sei grande!",
       playlist: { title: "", url: "" }
     },
@@ -914,7 +920,7 @@ const STORE = {
       playlist: { title: "", url: "" }
     },
      "09-16": {
-      mainMessage: "Buongiorno, come va? stai bene? fatti sentire un pò, manca un po di casino qui",
+      mainMessage: "Buongiorno, come va? stai bene? fatti sentire un pò, manca un po'di casino qui",
       marcoMessage: "Renditi conto che mi manchi oh (bugia, manco un pò)",
       playlist: { title: "", url: "" }
     },
@@ -940,7 +946,7 @@ const STORE = {
     
     ,
      "09-23": {
-      mainMessage: "Buonasera, oggi un po pesante ahaha",
+      mainMessage: "Buonasera, oggi un po'pesante ahaha",
       marcoMessage: "Mi piace stare solo, ma con te ,per la prima volta, ho voluto la compagnia di qualcuno più della mia",
       playlist: { title: "", url: "" }
     },
@@ -974,7 +980,7 @@ const STORE = {
     "10-01": {
       mainMessage: "Giornata mondiale della musica! ascolta la tua canzone preferita e balla come se nessuno ti stesse guardando!",
       marcoMessage: "E se qualcuno ti stesse guardando? balla lo stesso, che ti frega! Buongiorno!",
-      playlist: { title: "Looser, charlie puth", url: "https://www.youtube.com/watch?v=0NXUj7dJ6tM" }
+      playlist: { title: "", url: "" }
     }
     
     ,
@@ -1034,7 +1040,7 @@ const STORE = {
       playlist: { title: "", url: "" }
     },
      "10-22": {
-      mainMessage: "Oggi ti dico una cosa bella e seria, dopo un caldo Buongiorno ",
+      mainMessage: "Oggi ti dico una cosa bella e seria, dopo un solito Buongiorno ",
       marcoMessage: "Ricordati sempre, non succedera mai nella vita che tu mi trovi sordo a una tua chiamata in un momento di bisogno, mai...",
       playlist: { title: "", url: "" }
     },
@@ -1074,7 +1080,7 @@ const STORE = {
       playlist: { title: "", url: "" }
     },
      "11-06": {
-      mainMessage: "Ei, ti va un caffe? vorrei riprendere un pò di energie",
+      mainMessage: "Ei, ti va un caffe? vorrei un pò di caffeina",
       marcoMessage: "Bugia vuole solo vederti, puoi lasciar stare",
       playlist: { title: "", url: "" }
     },
@@ -1083,49 +1089,49 @@ const STORE = {
       marcoMessage: "Dai fammi un bel audio",
       playlist: { title: "", url: "" }
     },
-     "0-": {
-      mainMessage: "",
-      marcoMessage: "",
+     "11-10": {
+      mainMessage: "Ogni tanto bisogna ricordarsi di ringraziare chi migliora la nostra vita, grazie!",
+      marcoMessage: "Ogni tanto bisogna anche ricordarsi di altro... chiedimi cosa.",
       playlist: { title: "", url: "" }
     },
-     "0-": {
-      mainMessage: "",
-      marcoMessage: "",
+     "11-12": {
+      mainMessage: "Buongiorno, lo sai che cosa ho visto una volta nei tuoi occhi?",
+      marcoMessage: "Secondo me no, spero di ricordarmene",
       playlist: { title: "", url: "" }
     },
-     "0-": {
-      mainMessage: "",
-      marcoMessage: "",
+     "11-14": {
+      mainMessage: "Hei scema, anche oggi un'altra giornata magnifica da vivere!",
+      marcoMessage: "Indossa il tuo sorriso più bello, la giornata sarà magnifica anche per me!",
       playlist: { title: "", url: "" }
     },
-     "0-": {
-      mainMessage: "",
-      marcoMessage: "",
+     "11-16": {
+      mainMessage: "Buonasera, oggi la sfida è decidere nel mondo chi è il più intelligente, chi il più affascinante , chi il più scemo e chi il più soggetto , che suggerisci?",
+      marcoMessage: "Io direi scontato Marco e Claudia per un paio di cose",
       playlist: { title: "", url: "" }
     },
-     "0-": {
-      mainMessage: "",
-      marcoMessage: "",
+     "11-18": {
+      mainMessage: "Ei, oggi volevo dirti che sei perfetta esattamente come sei, onesta, bella e garbata",
+      marcoMessage: "Un pò rompi ogni tanto, ma sarà colpa degli altri sicuramente",
       playlist: { title: "", url: "" }
     },
-     "0-": {
-      mainMessage: "",
-      marcoMessage: "",
+     "11-20": {
+      mainMessage: "Se ti dico che mi piaci un sacco la giornata un po'migliora? sei un sogno!",
+      marcoMessage: "A me non è che piaccia poi così tanto, il giusto...",
       playlist: { title: "", url: "" }
     },
-     "0-": {
-      mainMessage: "",
-      marcoMessage: "",
+     "11-22": {
+      mainMessage: "Buongiorno, stringi i denti e anche oggi affronta la vita con grinta e coraggio, c'è tanto che ci aspetta ",
+      marcoMessage: "E se vuoi un pò di caos sai come mischiare le carte",
       playlist: { title: "", url: "" }
     },
-     "0-": {
-      mainMessage: "",
-      marcoMessage: "",
+     "11-24": {
+      mainMessage: "Allora ti piace venire qui a leggere buongiorno? Ti voglio bene, sei una stella",
+      marcoMessage: "La più lontana e luminosa",
       playlist: { title: "", url: "" }
     },
-     "0-": {
-      mainMessage: "",
-      marcoMessage: "",
+     "11-26": {
+      mainMessage: "Giorno, Spero che tu possa beccare questo messaggio prima o poi, Ti voglio bene, anche se ammaccato.",
+      marcoMessage: "Mi spiace tanto per come sono andate le cose, ti amerò comunque assai anche se non come avrei voluto. So che hai avuto i tuoi motivi, le tue ragioni ed era un periodo stressante, ma pensavo certe cose (che non meritavo per nulla) non le avresti mai pensate, sentirle mi ha fatto male. Per fortuna sono forte e ti voglio troppo bene, ma attenta per favore a non dire cose così a chi prova solo bene nei tuoi confronti. Non è un rimprovero, mi viene anche difficile scriverlo ma penso sia una cosa che ha senso dirti. So che esplodi e vuoi dire tutto nella maniera più sincera possibile, ma so anche che non vorresti fare del male a chi ti ama. Circondati di persone che ti amano e non rischiare poi di mandarle via ferite per situazioni che si potrebbero affrontare senza dirsi cattiverie.",
       playlist: { title: "", url: "" }
     },
      "0-": {
@@ -1149,7 +1155,7 @@ const STORE = {
 
   weekly: {
     monday: {
-      mainMessage: "Buon Lunedì, Comincia un altra settimana, datti da fare, impegnati, goditela e rendi te stessa fiera! ",
+      mainMessage: "Buon Lunedì, Comincia un'altra settimana, datti da fare, impegnati, goditela e rendi te stessa fiera! ",
       marcoMessage: "tutto apposto? conto su di te!",
       playlist: { title: "Waiting For Love, Avicii", url: "https://www.youtube.com/watch?v=-ncIVUXZla8" }
     },
@@ -2485,7 +2491,7 @@ complimenti: [
   "Amarti è come respirare",
   "Sei un Caterpillar (proprio un bruchetto)",
   "Sei molto più di quel che immagini",
-  "Datti un po di pace, sei la migliore dopo tutto",
+  "Datti un po'di pace, sei la migliore dopo tutto",
   "Mi sta proprio simpatica sta ragazza",
   "Non ti scambierei per nulla al mondo",
   "Mi fai girare la testa",
@@ -2512,7 +2518,7 @@ complimenti: [
   "Comunque, che capolavoro che sei",
   "Rimanga tra noi, sei carina",
   "Adorabile",
-  "Ci sai fare, credici un po di più",
+  "Ci sai fare, credici un po'di più",
   "Meriti una statua",
   "Rompi assai, ma quanto ne vale la pena",
   "Staresti alla grande con un bel tacco 8, ma anche con in ciabatte",
@@ -2586,7 +2592,7 @@ quotes: [
     {citazione: "NESSUNO NASCE IN QUESTO MONDO PER RIMANERE COMPLETAMENTE SOLO!!", fonte: "Sauro , OnePiece"},
     {citazione: "Ci sono cose che non si possono interrompere, la consapevolezza che i sogni della gente sopravviveranno al passaggio da un’epoca all’altra è qualcosa che durerà per sempre, finché la gente avrà sete di libertà!", fonte: "Gol D Roger , One Piece"},
     {citazione: "Lo sapete voi quando un uomo muore davvero? Non quando il suo cuore viene raggiunto da un proiettile. E nemmeno quando viene colpito da una malattia incurabile. E nemmeno quando mangia un fungo velenoso! Muore veramente solo quando viene dimenticato da tutti! Anche se io sparirò, il mio sogno potrà realizzarsi…", fonte: "Hilik , One"},
-    {citazione: "Moriro col sorriso sulla faccia, perchè , dopotutto, se penserai a me in futuro... non è meglio che mi ricordi cosi?", fonte: "Rosinante , One Piece"},
+    {citazione: "Moriro col sorriso sulla faccia, perché , dopotutto, se penserai a me in futuro... non è meglio che mi ricordi cosi?", fonte: "Rosinante , One Piece"},
     {citazione: "Sei stato inghiottito dai rimpianti e dai sensi di colpa! So che stai soffrendo, ...ma devi sopprimere questa amarezza! Piantala di contare le cose che hai perso, cio che è perso è perso! Rifletti Rufy, cosa ti è rimasto?", fonte: "Jimbe , One Piece"},
   
     {citazione: "Non serve a niente rifugiarsi nei sogni e dimenticarsi di vivere.", fonte: "Albus Silente,Harry Potter"},
