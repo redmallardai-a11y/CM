@@ -703,5 +703,10 @@ margin-bottom: 1rem;
   border-bottom: 1px solid rgba(14, 0, 82, 0.129);
   margin-bottom: 10px;
 }
-
+.jumbo{
+  display: none;
+}
+.jumbo2{
+  display: none;
+}
 }
