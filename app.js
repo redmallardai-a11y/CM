@@ -249,13 +249,18 @@ function renderSong() {
 
   const newContent = document.createElement('div');
   newContent.classList.add('song-enter');
-  newContent.innerHTML = `
+  newContent.innerHTML = `<div class=songThumb>
     <h4>${song.title}</h4>
     <p>${song.subtitle}</p>
     ${thumb ? `
       <a href="${song.url}" target="_blank">
         <img src="${thumb}" style="width:250px; border-radius:8px; cursor:pointer;">
       </a>
+      </div>
+      <div class="SongDesc"> 
+      <h4>Dedicata a te.</h4> 
+      <h5>Il mio messaggio in questa canzone</h5>
+      ${song.description.map(line => `<p>${line}</p>`).join('')}</div>
     ` : ""}
   `;
 
