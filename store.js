@@ -10,7 +10,7 @@ const STORE = {
      "12-03": {
       mainMessage: "Brrrrrrrrr, vedi di coprirti che si gela.",
       marcoMessage: "Però con naso e guance arrosate saresti adorabile",
-      playlist: { title: "", url: "" }
+      playlist: { title: "Bitter Sweet Symphony, The Verve", url: "https://www.youtube.com/watch?v=DGC0a4cby5c" }
     },
      "12-05": {
       mainMessage: "Ma che interessante sta ragazza, vorrei scoprirne tutti i segreti...",
@@ -863,52 +863,52 @@ const STORE = {
      "09-04": {
       mainMessage: "Buongiorno, ricordati che solo perché ci vuole tempo non vuol dire che non stia funzionando",
       marcoMessage: "Continua cosi, sei grande!",
-      playlist: { title: "", url: "" }
+      playlist: { title: "In Your Arms, Nico & Vinz", url: "https://www.youtube.com/watch?v=361YTYs0mI0" }
     },
      "09-06": {
       mainMessage: "Buongiorno a te, che non ti arrenidi mai!",
       marcoMessage: "lo sai che la vita ti deve ancora un sogno",
-      playlist: { title: "", url: "" }
+      playlist: { title: "Hymn for the Weekend, Coldplay", url: "https://www.youtube.com/watch?v=DzlfEih1NCM" }
     },
      "09-08": {
       mainMessage: "Hei ragazza, buonasera, oggi sei veramente splendida",
       marcoMessage: "Motivati da sola, non ascoltare chi nota solo i tuoi errori!",
-      playlist: { title: "", url: "" }
+      playlist: { title: "We are Beautiful now, Zedd", url: "https://www.youtube.com/watch?v=kpwVAz0yekQ" }
     },
      "09-09": {
       mainMessage: "Spero la vita ti tratti bene, e se non lo fa spero che sia tu stessa a trattarti con il rispetto che meriti",
       marcoMessage: "E male male ti tratterò bene io se proprio non riesci da sola",
-      playlist: { title: "", url: "" }
+      playlist: { title: "Adventure of a lifetime, Coldplay", url: "https://www.youtube.com/watch?v=-5IXuIvDWu0" }
     },
      "09-11": {
       mainMessage: "Bonjour, oggi una massima: La pace arrivera quando realizzerai che tutto ciò che è al di fuori del tuo controllo dovrebbe restare fuori dalla tua mente",
       marcoMessage: "Sembra banale, ma è tutto lì",
-      playlist: { title: "", url: "" }
+      playlist: { title: "Lovers on the sun, David Guetta", url: "https://www.youtube.com/watch?v=RM4TfzprAwg" }
     },
      "09-12": {
       mainMessage: "Buonasera, migliora i tuoi pensieri e ti sentirai decisamente meglio!",
       marcoMessage: "Migliora le tue azioni, e tutto nella vita migliorerà",
-      playlist: { title: "", url: "" }
+      playlist: { title: "With or Without you, U2", url: "https://www.youtube.com/watch?v=RM4TfzprAwg" }
     },
      "09-14": {
       mainMessage: "Hei ,leggi attentamente: non sarai mai troppo pesante per qualcuno che non può mai averne abbastanza di te",
       marcoMessage: "Leggilo di nuovo",
-      playlist: { title: "", url: "" }
+      playlist: { title: "Stole the show, Kygo", url: "https://www.youtube.com/watch?v=Vs3LXhqm5h4" }
     },
      "09-16": {
       mainMessage: "Buongiorno, come va? stai bene? fatti sentire un pò, manca un po'di casino qui",
       marcoMessage: "Renditi conto che mi manchi oh (bugia, manco un pò)",
-      playlist: { title: "", url: "" }
+      playlist: { title: "Postcards, James Blunt", url: "https://www.youtube.com/watch?v=VU5chvW2wi4" }
     },
      "09-18": {
       mainMessage: "Ei cla, forse lo vuoi sentire oggi: Non puoi tornare indietro e cambiare un inizio",
       marcoMessage: "Ma puoi iniziare ora, dove sei, e cambiarne il finale.",
-      playlist: { title: "", url: "" }
+      playlist: { title: "I wanna know, Alesso, Nico & Vinz", url: "https://www.youtube.com/watch?v=Z_BBnI_fmdQ" }
     },
      "09-20": {
       mainMessage: "Oggi frasona (buongiorno claudia), senti un pò:",
       marcoMessage: "L'imbarazzo è il prezzo da pagare, se non sei disposta a sembrare una principiante inesperta, non potrai mai diventrare la migliore degli esperti",
-      playlist: { title: "", url: "" }
+      playlist: { title: "Circles, Post Malone", url: "https://www.youtube.com/watch?v=WnLIGgTaBM0" }
     }
     
     
@@ -924,17 +924,17 @@ const STORE = {
      "09-23": {
       mainMessage: "Buonasera, oggi un po'pesante ahaha",
       marcoMessage: "Mi piace stare solo, ma con te ,per la prima volta, ho voluto la compagnia di qualcuno più della mia",
-      playlist: { title: "", url: "" }
+      playlist: { title: "Thinking out loud, Ed Sheeran", url: "https://www.youtube.com/watch?v=XMPgVZtADtQ" }
     },
      "09-25": {
       mainMessage: "Buongiorno signorina. Spero ti accadano un sacco di cose belle",
       marcoMessage: "E quando arrivano, voglio che tu sappia che te le meriti tutte",
-      playlist: { title: "", url: "" }
+      playlist: { title: "Everybody Wants to rule the world, Tears for Fears", url: "https://www.youtube.com/watch?v=SRAq0CUM6-Y" }
     },
      "09-26": {
       mainMessage: "Ei cla buonasera, Non opprimerti troppo, sei una bomba!",
       marcoMessage: "Fai il tuo meglio senza sfinirti, è più che abbastanza",
-      playlist: { title: "", url: "" }
+      playlist: { title: "Jump, Van Hallen", url: "https://www.youtube.com/watch?v=NUTjBxSnkAs" }
     }
     
     
@@ -956,7 +956,7 @@ const STORE = {
     "10-01": {
       mainMessage: "Giornata mondiale della musica! ascolta la tua canzone preferita e balla come se nessuno ti stesse guardando!",
       marcoMessage: "E se qualcuno ti stesse guardando? balla lo stesso, che ti frega! Buongiorno!",
-      playlist: { title: "", url: "" }
+      playlist: { title: "AKA... What a life, Noel Gallagher", url: "https://www.youtube.com/watch?v=FWbbqzY8g0s" }
     }
     
     ,
@@ -968,77 +968,77 @@ const STORE = {
      "10-04": {
       mainMessage: "Oggi un pensiero carino: Anni fa avrai sicuramente avuto dei problemi che ora neanche ricorderai che sembravano insormontabili ",
       marcoMessage: "Eppure siamo sempre qua, anche i prossimi li supereremo",
-      playlist: { title: "", url: "" }
+      playlist: { title: "Humans, The killers", url: "https://www.youtube.com/watch?v=1irwugJ8W8A" }
     },
      "10-06": {
-      mainMessage: "Buongiorno, e se oggi cambiassimo?",
+      mainMessage: "Buongiorno, e se oggi....?",
       marcoMessage: "Non troverai mai la stessa persona due volte, neanche nella stessa persona  - Mahmoud Darwish",
-      playlist: { title: "", url: "" }
+      playlist: { title: "Dream on, Aerosmith", url: "https://www.youtube.com/watch?v=JojwHc1MKag" }
     },
      "10-07": {
       mainMessage: "Buongiorno, oggi ho sentito che si parla male di Marco, nulla da aggiungere? ",
-      marcoMessage: "Quel perdente, quanti problemi che mi causa...",
-      playlist: { title: "", url: "" }
+      marcoMessage: "Quanti problemi che mi causa..., un pensierino fossi in te lo farei comunque, è carino il ragazzo, si impegna e so che ti ama da impazzire",
+      playlist: { title: "Bitter Sweet Symphony, The Verve", url: "https://www.youtube.com/watch?v=tvx_W4UFVDc" }
     },
      "10-09": {
       mainMessage: "Hei cla, se ti capita di sentirti giù ogni tanto ricordati questo:",
-      marcoMessage: "L'uomo che è stato distrutto mille volte, conosce mille mofi per ricorsturire se stesso meglio di prima.",
-      playlist: { title: "", url: "" }
+      marcoMessage: "L'uomo che è stato distrutto mille volte, conosce mille modi per ricorsturire se stesso meglio di prima.",
+      playlist: { title: "Dont Look back in Anger, Oasis", url: "https://www.youtube.com/watch?v=639wzt3LYEw" }
     },
      "10-10": {
       mainMessage: "Giusto per rafforzare il discorso di ieri: abbi fiducia in chi stai diventando, e permetti a te stessa di evolvere, sei magica cla, non hai limiti! ",
       marcoMessage: "e comunque buongiorno bellissima!",
-      playlist: { title: "", url: "" }
+      playlist: { title: "Viva La Vida, Coldplay", url: "https://www.youtube.com/watch?v=y4zdDXPYo0I" }
     },
      "10-12": {
       mainMessage: "Un giorno, forse, avrai tutte le risposte. Per ora concentrati sul goderti il presente, abbi fiducia nelle scelte che prendi e circondati di chi supporta i tuoi obiettivi e crede in te ",
       marcoMessage: "Sei gia dove devi essere!",
-      playlist: { title: "", url: "" }
+      playlist: { title: "Wanderwall, Oasis", url: "https://www.youtube.com/watch?v=NbSzTi0d6pQ" }
     },
      "10-14": {
       mainMessage: "Buongiorno, Fatti un enorme favore e comincia a credere che nulla è troppo buono per te",
       marcoMessage: "Meriti tutto cio che c'è di buono in questa vita",
-      playlist: { title: "", url: "" }
+      playlist: { title: "Im still standing, Elton John", url: "https://www.youtube.com/watch?v=MJ_aPtt4U8M" }
     },
      "10-16": {
       mainMessage: "Ei ma chi è questa sventola al computer?",
       marcoMessage: "mado mi dovevate avvisare, non posso farmi vedere cosi da una come lei...",
-      playlist: { title: "", url: "" }
+      playlist: { title: "Otherside, Red Hot Chilly Peppers", url: "https://www.youtube.com/watch?v=NHH8ENlkMC0" }
     },
      "10-18": {
       mainMessage: "Bonjour, oggi una bella frase: L'amore è un atto infinito di perdono",
       marcoMessage: "Il perdonare è un atto di amore infinito",
-      playlist: { title: "", url: "" }
+      playlist: { title: "Can't Stop, Red Hot Chilly Peppers", url: "https://www.youtube.com/watch?v=8a-9Sd35HNI" }
     },
      "10-20": {
       mainMessage: "Eiiiii sveglia, oggi è la giornata mondiale del disturba i tuoi parenti, è il giorno adatto a rompere motorini e vantarsi con cugine rosicone",
       marcoMessage: "Se serve puoi anche inventare, l'importante è dare fastidio",
-      playlist: { title: "", url: "" }
+      playlist: { title: "Beautiful Day, U2", url: "https://www.youtube.com/watch?v=hJ_burYdegk" }
     },
      "10-22": {
       mainMessage: "Oggi ti dico una cosa bella e seria, dopo un solito Buongiorno ",
       marcoMessage: "Ricordati sempre, non succedera mai nella vita che tu mi trovi sordo a una tua chiamata in un momento di bisogno, mai...",
-      playlist: { title: "", url: "" }
+      playlist: { title: "I Ain't worried, One Republic", url: "https://www.youtube.com/watch?v=mNEUkkoUoIA" }
     },
      "10-24": {
       mainMessage: "Ciao Bellissima, che si racconta?",
       marcoMessage: "Non dubitare mai di te, chi vede quello che fai si chiede come tu possa essere cosi grandiosa.",
-      playlist: { title: "", url: "" }
+      playlist: { title: "Come as you are, Nirvana", url: "https://www.youtube.com/watch?v=9I9c20LHmzY" }
     },
      "10-26": {
       mainMessage: "Buonasera, novità? nulla di interessante da condividere?",
       marcoMessage: "Sei nata per controllare le tempeste, smettila di fare finta che la pioggia possa danneggiarti",
-      playlist: { title: "", url: "" }
+      playlist: { title: "Fly Away, Lenny Krevitz", url: "https://www.youtube.com/watch?v=BQZzwnQ5PBk" }
     },
      "10-28": {
       mainMessage: "Madò sta finendo un altro mese, qualche momento speciale da incorniciare?",
       marcoMessage: "Nel caso ci sono un altro paio di giorni fino alla fine",
-      playlist: { title: "", url: "" }
+      playlist: { title: "Dancin in the Moonlight, Toploader", url: "https://www.youtube.com/watch?v=5Sx7xqv_oYk" }
     },
      "10-30": {
       mainMessage: "Bonsoir, Domani attenta che ci sono i matti in giro, non accettare caramelle dagli sconosciuti",
       marcoMessage: "Una buona frase motivazionale random: E' comunque una vittoria quando un esperienza dolorosa alimenta la nostra crescita.",
-      playlist: { title: "", url: "" }
+      playlist: { title: "I Was Made for Lovin' you, Kiss", url: "https://www.youtube.com/watch?v=_mIiR7ATeF4" }
     },
     "10-31": {
       mainMessage: "Buongiorno, sarai tu il mostro oggi? da che ti travesti?",
@@ -1048,82 +1048,82 @@ const STORE = {
      "11-02": {
       mainMessage: "Ei Babbana, cerca di vivere una vista soddisfacente ancor più che di successo!",
       marcoMessage: "Dobbiamo rendere fieri e felici noi stessi, non gli altri.",
-      playlist: { title: "", url: "" }
+      playlist: { title: "Vampire Diaries, MGK", url: "https://www.youtube.com/watch?v=_WdVeebvhEA" }
     },
      "11-04": {
       mainMessage: "Che donna coraggiosa che sei, Buongiorno!",
       marcoMessage: "Il coraggio non è avere la forza di andare avanti, ma andare avanti anche quando non ne hai la forza.  Teddy Roosvelt ",
-      playlist: { title: "", url: "" }
+      playlist: { title: "In the Air Tonight, Phil Collins", url: "https://www.youtube.com/watch?v=CFDFX4Ao-UY" }
     },
      "11-06": {
       mainMessage: "Ei, ti va un caffe? vorrei un pò di caffeina",
       marcoMessage: "Bugia vuole solo vederti, puoi lasciar stare",
-      playlist: { title: "", url: "" }
+      playlist: { title: "Ain't no sunshine, Bill WHiters", url: "https://www.youtube.com/watch?v=C_lX7RoY3k8" }
     },
      "11-08": {
       mainMessage: "Buongiorno, adoro la tua voce appena sveglia sai?",
       marcoMessage: "Dai fammi un bel audio",
-      playlist: { title: "", url: "" }
+      playlist: { title: "Layla (Claudia), Eric Clapton", url: "https://www.youtube.com/watch?v=cs-sks4dtww" }
     },
      "11-10": {
       mainMessage: "Ogni tanto bisogna ricordarsi di ringraziare chi migliora la nostra vita, grazie!",
       marcoMessage: "Ogni tanto bisogna anche ricordarsi di altro... chiedimi cosa.",
-      playlist: { title: "", url: "" }
+      playlist: { title: "You make my Dreams", url: "https://www.youtube.com/watch?v=49BQKU5wflk" }
     },
      "11-12": {
       mainMessage: "Buongiorno, lo sai che cosa ho visto una volta nei tuoi occhi?",
       marcoMessage: "Secondo me no, spero di ricordarmene",
-      playlist: { title: "", url: "" }
+      playlist: { title: "Sweet child of mine, Nirvana", url: "https://www.youtube.com/watch?v=qoflJn7zkFM" }
     },
      "11-14": {
       mainMessage: "Hei scema, anche oggi un'altra giornata magnifica da vivere!",
       marcoMessage: "Indossa il tuo sorriso più bello, la giornata sarà magnifica anche per me!",
-      playlist: { title: "", url: "" }
+      playlist: { title: "Lady, hear me tonight, Modjo", url: "https://www.youtube.com/watch?v=-EmfweH9xVw" }
     },
      "11-16": {
       mainMessage: "Buonasera, oggi la sfida è decidere nel mondo chi è il più intelligente, chi il più affascinante , chi il più scemo e chi il più soggetto , che suggerisci?",
       marcoMessage: "Io direi scontato Marco e Claudia per un paio di cose",
-      playlist: { title: "", url: "" }
+      playlist: { title: "I Just Died in your Arms, Cutting Crew", url: "https://www.youtube.com/watch?v=8ZIOkbrX_uU" }
     },
      "11-18": {
       mainMessage: "Ei, oggi volevo dirti che sei perfetta esattamente come sei, onesta, bella e garbata",
       marcoMessage: "Un pò rompi ogni tanto, ma sarà colpa degli altri sicuramente",
-      playlist: { title: "", url: "" }
+      playlist: { title: "Would you still love me the same, Adam Levine", url: "https://www.youtube.com/watch?v=0m6O7vzjVro" }
     },
      "11-20": {
       mainMessage: "Se ti dico che mi piaci un sacco la giornata un po'migliora? sei un sogno!",
       marcoMessage: "A me non è che piaccia poi così tanto, il giusto...",
-      playlist: { title: "", url: "" }
+      playlist: { title: "Looked out of Heaven", url: "Bruno Mars" }
     },
      "11-22": {
       mainMessage: "Buongiorno, stringi i denti e anche oggi affronta la vita con grinta e coraggio, c'è tanto che ci aspetta ",
       marcoMessage: "E se vuoi un pò di caos sai come mischiare le carte",
-      playlist: { title: "", url: "" }
+      playlist: { title: "Drive by, Train", url: "https://www.youtube.com/watch?v=maklLfjCO90" }
     },
      "11-24": {
       mainMessage: "Allora ti piace venire qui a leggere buongiorno? Ti voglio bene, sei una stella",
       marcoMessage: "La più lontana e luminosa",
-      playlist: { title: "", url: "" }
+      playlist: { title: "Should i stay or should i go?, The Clash", url: "https://www.youtube.com/watch?v=KPeT0jTcWGU" }
     },
      "11-26": {
       mainMessage: "Buongiorno forza della natura, pronta a scatenare un uragano?",
       marcoMessage: "Fammi volare",
-      playlist: { title: "", url: "" }
+      playlist: { title: "Take on me, A-ha", url: "https://www.youtube.com/watch?v=kmDBDn8Ju6w" }
     },
      "11-28": {
       mainMessage: "Hei bellissima, come va la vita? ci divertiamo un po' assieme?",
       marcoMessage: "daiiii divertiamoci",
-      playlist: { title: "", url: "" }
+      playlist: { title: "Angelo, Francesco Renga", url: "https://www.youtube.com/watch?v=q3FrlmPExGE" }
     },
      "11-30": {
       mainMessage: "Cia', ne ho scritti abbastanza di messaggi, sto perdendo l'interesse",
       marcoMessage: "Ma quando mai, torna domani!",
-      playlist: { title: "", url: "" }
+      playlist: { title: "Vorrei, Lunapop", url: "https://www.youtube.com/watch?v=4od-RmkKyD8" }
     },
      "11-31": {
       mainMessage: "E sta sera ti va una pazzia? chiudiamo un altro mese...",
       marcoMessage: "Voglio un bacio",
-      playlist: { title: "", url: "" }
+      playlist: { title: "Io Amo, Fausto Leali", url: "https://www.youtube.com/watch?v=Q6S3_vdPW1s" }
     }
 
     
@@ -1148,10 +1148,154 @@ const STORE = {
   },
 playlistSection: [
   {
-    name: "Playlist Open Heart",
+    name: "Il mio Cuore",
     description: "Direttamente dal mio cuore, i miei sentimenti sono qui",
     songs: [
-      
+      {
+        title: "Amo",
+        subtitle: "Fausto Leali",
+        description:["Ma dove va a finire il cielo?",
+                      "Magari dove dormi tuuuuu",
+                      "E respiraaaare sul tuo seno",
+                      "Amoooo, Amooooo",
+                      "Sbadiglia piano una finestra",
+                      "Tra le persiane un po' di blu",
+                      "Mi sveglio e già mi batti in testa",
+                      "Amooooo (amo), io Aaaaaamooooo (amo)",
+                      "Tuuuu, solamente tuuu",
+                      "Non aver pauraaaa",
+                      "Non sarai più solaaaaa",
+                      "Amooooo (amo), io Aaaaaamooooo (amo)",
+                      "Tu, tu sempre più suuu",
+                      "Noi fra queste mura",
+                      "Noooooon sei un'avventura",
+                      "Amooooo (amo), io Aaaaaamooooo (amo)",
+                      "Ma dove va a dormire il cielo?",
+                      "Se gli rubiamo tutto il bluuuu (lo rubi tu)",
+                      "Se le mie braccia han preso il volo",
+                      "Amooooo (amo), io Aaaaaamooooo (amo)",
+                      "Tuuuu, solamente tu",
+                      "Nooooon aver paura",
+                      "Non sarai più sola",
+                      "Amooooo (amo), io Aaaaaamooooo (amo)",
+                      "Tu, tu sempre più suuuu",
+                      "Noi fra queste mura",
+                      "Noooon sei un'avventura",
+                      "Amo (amo), io amo (amo)",
+                      "Io amo",
+                      "Io amo",
+                      "Io Amo Claudia"],
+        url: "https://www.youtube.com/watch?v=Q6S3_vdPW1s"
+      },
+       {
+        title: "Waiting for Love",
+        subtitle: "Avicii",
+        description:["Where there's a will, there's a way", "kind of beautiful",
+                      "And every night has its day", "so magical",
+                      "And if there's love in this life, there's no obstacle",
+                      "That can't be defeated",
+                      "For every tyrant, a tear for the vulnerable",
+                      "In every lost soul, the bones of a miracle",
+                      "For every dreamer", "a dream, we're unstoppable",
+                      "With somethin' to believe in",
+                      "Monday left me broken",
+                      "Tuesday, I was through with hoping",
+                      "Wednesday, my empty arms were open",
+                      "Thursday, waiting for love", "waiting for love",
+                      "Thank the stars it's Friday",
+                      "I'm burning like a fire gone wild on Saturday",
+                      "Guess I won't be coming to church on Sunday",
+                      "I'll be waiting for love", "waiting for love", "to come around",
+                      "We are one of a kind, irreplaceable",
+                      "How did I get so blind and so cynical?",
+                      "If there's love in this life, we're unstoppable",
+                      "No, we can't be defeated",
+                      "Monday left me broken",
+                      "Tuesday, I was through with hoping",
+                      "Wednesday, my empty arms were open",
+                      "Thursday, waiting for love"," waiting for love",
+                      "Thank the stars it's Friday",
+                      "I'm burning like a fire gone wild on Saturday",
+                      "Guess I won't be coming to church on Sunday",
+                      "I'll be waiting for love","waiting for love to come around"],
+        url: "https://www.youtube.com/watch?v=xn_1hFdE-5g"
+      },
+       {
+        title: "Angelo",
+        subtitle: "Francesco renga",
+        description:["Notte fonda",
+                    "Senza luna",
+                    "E un silenzio che mi consuma",
+                    "Il tempo passa in fretta",
+                    "E tutto se ne va...",
+                    "preda degli eventi e dell'età",
+                    "Ma questa paura per te non passa mai",
+                    "Angelo, prenditi cura di lei",
+                    "Lei non sa vedere al di la di quello che da",
+                    "E l'ingenuità è parte di lei...",
+                    "Che è parte di me",
+                    "Cosa resta",
+                    "Del dolore",
+                    "E di preghiere, se Dio non vuole?",
+                    "parole vane al vento",
+                    "Ti accorgi in un momento:",
+                    "Siamo soli... è questa la realtà?",
+                    "Ed è una paura che... non passa mai",
+                    "Angelo, prenditi cura di lei",
+                    "Lei non sa vedere al di la di quello che da",
+                    "E tutto il dolore",
+                    "Che grida dal mondo",
+                    "Diventa un rumore",
+                    "Che scava, profondo...",
+                    "Nel silenzio di una lacrima",
+                    "Lei non sa vedere al di la di quello che da",
+                    "L'ingenuità è parte di lei...",
+                    "Che è parte di me."],
+        url: "https://www.youtube.com/watch?v=xn_1hFdE-5g"
+      },
+       {
+        title: "Il mio canto libero",
+        subtitle: "Lucio Battisti",
+        description:["In un mondo che",
+"Non ci vuole più",
+"Il mio canto libero",
+"Sei tu",
+"E l'immensità",
+"Si apre intorno a noi",
+"Al di là del limite",
+"Degli occhi tuoi",
+"Nasce il sentimento",
+"Nasce in mezzo al pianto",
+"E s'innalza altissimo",
+"E va",
+"E vola sulle accuse della gente",
+"A tutti i suoi retaggi indifferente",
+"Sorretto da un anelito d'amore",
+"Di vero amore",
+"Nuove sensazioni",
+"Giovani emozioni",
+"Si esprimono purissime",
+"In noi",
+"La veste dei fantasmi del passato",
+"Cadendo lascia il quadro immacolato",
+"E s'alza un vento tiepido d'amore",
+"Di vero amore",
+"E riscopro te",
+"Dolce compagna che",
+"Non sai dove andare",
+"Ma sai che ovunque andrai",
+"Al fianco tuo mi avrai",
+"Se tu lo vuoi (se lo vuoi...)",
+"In un mondo che",
+"Prigioniero è",
+"Respiriamo liberi",
+"Io e te",
+"E la verità",
+"Si offre nuda a noi",
+"E limpida è l'immagine",
+"Ormai"],
+        url: "https://www.youtube.com/watch?v=UtUHEsPfjjE"
+      },
        {
         title: "Everglow",
         subtitle: "Coldplay",
@@ -1159,10 +1303,77 @@ playlistSection: [
         url: "https://www.youtube.com/watch?v=xn_1hFdE-5g"
       },
        {
+        title: "Vorrei",
+        subtitle: "Lunapop",
+        description:["Vorrei, vorrei",
+                    "Esaudire tutti i sogni tuoi",
+                    "Vorrei, vorrei",
+                    "Cancellare ciò che tu non vuoi",
+                    "Però, lo sai" ,
+                    "che io vivo attraverso gli occhi tuoi",
+                    "Vorrei, vorrei",
+                    "Che tu fossi felice in ogni istante",
+                    "Vorrei, vorrei",
+                    "Stare insieme a te", "così, per sempre",
+                    "Però, lo sai che io vivo attraverso gli occhi tuoi",
+                    "E vorrei poterti amare",
+                    "Fino a quando tu ci sarai",
+                    "Sono nato per regalarti quel che ancora tu non hai","(sono io cla)",
+                    "Così se vuoi portarmi dentro al cuore tuo con te",
+                    "Io ti prego, e sai perché",
+                    "Vorrei, vorrei",
+                    "Esaudire tutti i sogni tuoi",
+                    "Vorrei, vorrei",
+                    "Cancellare ciò che tu non vuoi",
+                    "Però, lo sai che io vivo attraverso gli occhi tuoi",
+                    "Gli occhi tuoi"],
+        url: "https://www.youtube.com/watch?v=4od-RmkKyD8"
+      }
+      
+       ,
+       {
         title: "Roi",
         subtitle: "VIDEOCLUB",
         description:["T’en trouveras d’autres des mecs comme moi","Y’en aura plein des gars pour toi","Je te cherche dans mes songes","je te traque dans mes rêves","Tu n’es que le point fixe de mes songes disparates","Tu es ma femme iconique, tu es mon rubis saphir","Aime-moi dans la neige"," aime-moi sous l’soleil"," Je t’aime quand il pleut tu es la nymphe de mes vœux"," je t’embrasse dans mes, rêves et je t’aime au bout des lèvres","Avec toi je suis roi"],
         url: "https://www.youtube.com/watch?v=4NOMFBRfaT0"
+      },{
+        title: "Human",
+        subtitle: "The Killers",
+        description:["I did my best to notice",
+          "When the call came down the line",
+          "Up to the platform of surrender",
+          "I was brought, but I was kind","And sometimes I get nervous (capita)",
+          "When I see an open door",
+          "Close your eyes, clear your heart",
+          "Cut the cord","Will your system be alright",
+          "When you dream of home tonight?",
+          "There is no message we're receiving",
+          "Let me know, is your heart still beating?","Are we human or are we dancer?",
+          "My sign is vital","my hands are cold",
+          "And I'm on my knees","Looking for the answer","Are we human or are we dancer?","balliamo una vita insieme cla"],
+        url: "https://www.youtube.com/watch?v=1irwugJ8W8A"
+      },{
+        title: "Mary On A Cross",
+        subtitle: "Ghost",
+        description:["We were speeding together",
+"Down the dark avenues",
+"But besides of the stardom",
+"All we got was blues",
+"But through all of that sorrow",
+"We were riding high",
+"And the truth of the matter is",
+"I never let you go, let you go","(mai via dal mio cuore)","You go down just like Holy Mary",
+"Mary on a, Mary on a cross",
+"Not just another Bloody Mary",
+"Mary on a, Mary on a cross","If you choose to run away with me",
+"I will tickle you internally",
+"And I see nothing wrong with that","Now through all of this sorrow",
+"We'll be riding high",
+"And the truth of the matter is",
+"I never let you go, let you gooooooo","You go down just like Holy Mary","Your beauty never ever scared me","If you choose to run away with me",
+"I will tickle you internally","Nothing wrong with that","sempre"
+],
+        url: "https://www.youtube.com/watch?v=8JMMjCyyznI"
       },
        {
         title: "Space",
@@ -1175,6 +1386,53 @@ playlistSection: [
         subtitle: "French Montana - Swae Lee",
         description:["It's not good enough for me","Since I've been with you, i know","It's not gonna work for you","nobody can equal me,you know","I should know how to pick up","I′m gonna catch the rhythm","I had enough convo for 24","Pretty little body dancin' like GoGo, hey","And you are unforgettable","I need to get you alone","A fuckin' good time, never hurt nobody","If you loved the girl then I'm so, so sorry","I got to give it to her like we in a marriage","Oh, like we in a hurry","No, I won't tell nobody","You're on your level too","Tryna do what lovers do","You are Unforgettable"],
         url: "https://www.youtube.com/watch?v=MIcIza4sqaM"
+      },{
+        title: "I was Made for Lovin'you",
+        subtitle: "Kiss",
+        description:["Tonight",
+                    "I wanna give it all to you",
+                    "In the darkness",
+                    "There's so much I wanna do",
+                    "And tonight",
+                    "I wanna lay it at your feet",
+                    "'Cause, girl, I was made for you","Nato per amarti, è la mia natura",
+                    "And, girl, you were made for me","I was made for lovin' you, baby",
+                    "You were made for lovin' me",
+                    "And I can't get enough of you, baby",
+                    "Can you get enough of me?","Tonight",
+                    "I wanna see it in your eyes",
+                    "Feel the magic",
+                    "There's something that drives me wild",
+                    "And tonight",
+                    "We're gonna make it all come true",
+                    "'Cause, girl, you were made for me",
+                    "And, girl, I was made for you","I was made for lovin' you, baby",
+                    "You were made for lovin' me",
+                    "And I can give it all to you, baby",
+                    "Can you give it all to me?","Oh, I was made",
+                    "You were made",
+                    "I can't get enough",
+                    "No, I can't get enough"],
+        url: "https://www.youtube.com/watch?v=_mIiR7ATeF4"
+      },{
+        title: "Vampire Diaries",
+        subtitle: "MGK",
+        description:["I sleep against the bedroom wall",
+                    "The sun comes out", "and I can't do nothing at all",
+                    "I swear the life I live so boring",
+                    "I don't know why they make it look so cool in stories",
+                    "'Cause I can't leave 'til it's night time", "and I can't drink what I want",
+                    "Tried to find the silver lining", "Sei tu il mio argento","but it'll kill me if I touch",
+                    "And just walkin' in the daylight" ,"is something I've never done",
+                    "'Cause I was born to fly", "but, baby, I would die to run, so",
+                    "Take, take, take me out",
+                    "There's so much I haven't seen", "don't let me rot inside this town",
+                    "Take, take, take me out",
+                    "I know how it's gonna end", "but it's too late to turn around (hey)","I let my fangs show", "smile for the cameras",
+                    "Cut both my wings so no one can tell",
+                    "Find me in twilight","turnin' to ashes",
+                    "If it's my last breath, I'm happy as hell","Take, take, take me out","There's so much I haven't seen", "don't let me rot inside this town","'Cause I was born to fly, but, baby","With you I would die to run"],
+        url: "https://www.youtube.com/watch?v=_WdVeebvhEA"
       }
       ,
        {
@@ -1205,6 +1463,17 @@ playlistSection: [
         subtitle: "Imagine Dragons",
         description:["Something about the way that you","walked into my living room","Casually and confident, looking at the mess I am","But still you, still you want me?","There's something about the way that you, always see the pretty view","Overlook the blooded mess","Always looking effortless","And still you, still you want me?","I got no innocence, faith ain't no privilege","Stress lines and cigarettes","politics, and deficits","But still you, still you want me?","Oh, I always let you down","You're shattered on the ground","Still, I find you there, Next to meeee","And ooooh, stupid things I do","I'm far from good, it's true","But still, I find you, Neeeeext to me","So thank you, for taking a chance on me","I know it isn't easy, But I hope to be worth it"],
         url: "https://www.youtube.com/watch?v=-C_rvt0SwLE"
+      },{
+        title: "Every breath you take",
+        subtitle: "Police",
+        description:["Every breath you take And every move you make","Every step you take, Every bond you break","Every single day And every word you say","Every game you play, Every night you stay","Oh, can't you see You belong to me?","How my poor heart aches with every step you take?","I dream at night, I can only see your face","I look around, but it's you I can't replace","I feel so cold, and I long for your embrace","Every move you make, Every step you take, I'll be watching you"],
+        url: "https://www.youtube.com/watch?v=FXozwCdSLb0"
+      },
+       {
+        title: "Cant help Falling in Love",
+        subtitle: "Elvis Presley",
+        description:["Wise men say...","Only fools rush in","But I can't help","Falling in love with you","Shall I stay? Would it be a sin?","Like a river flows surely to the sea","Darling, so it goes","Some things are meant to be","Take my hand","Take my whole life, too","For I can't help falling in love with you"],
+        url: "https://www.youtube.com/watch?v=MqazV4hbu8E"
       },
        {
         title: "Birds",
@@ -1224,18 +1493,7 @@ playlistSection: [
         description:["Am I wrong for thinking out the box from where I stay?","Am I wrong for saying that I'll choose another way?","I ain't trying to do what everybody else doing","If one thing I know, how far would I grow?","I'm walking down this road of mine, this road that I call home","So am I wrong for thinking that we could be something for real?","Now am I wrong for trying to reach the things that I can't see?","But that's just how I feel","Am I tripping for having a vision?","My prediction; I'mma be on the top of the world","Hope you, hope you don't look back, always do what you decide","Fight for yours and don't let go, don't let them compare you, no","Don't worry, you're not alone, that's just how we feel","If you tell me I'm wrong, I don't wanna be right","So am I wrong for thinking that we could be something for real?","But that's just how I feel trying to reach the things that I can't see"],
         url: "https://www.youtube.com/watch?v=bg1sT4ILG0w"
       },
-       {
-        title: "Every breath you take",
-        subtitle: "Police",
-        description:["Every breath you take And every move you make","Every step you take, Every bond you break","Every single day And every word you say","Every game you play, Every night you stay","Oh, can't you see You belong to me?","How my poor heart aches with every step you take?","I dream at night, I can only see your face","I look around, but it's you I can't replace","I feel so cold, and I long for your embrace","Every move you make, Every step you take, I'll be watching you"],
-        url: "https://www.youtube.com/watch?v=FXozwCdSLb0"
-      },
-       {
-        title: "Cant help Falling in Love",
-        subtitle: "Elvis Presley",
-        description:["Wise men say...","Only fools rush in","But I can't help","Falling in love with you","Shall I stay? Would it be a sin?","Like a river flows surely to the sea","Darling, so it goes","Some things are meant to be","Take my hand","Take my whole life, too","For I can't help falling in love with you"],
-        url: "https://www.youtube.com/watch?v=MqazV4hbu8E"
-      },
+       
        {
         title: "Let it happen",
         subtitle: "Tame Impala",
@@ -1279,6 +1537,12 @@ playlistSection: [
         url: "https://www.youtube.com/watch?v=zAVqPCuYN4k"
       },
        {
+        title: "Maps",
+        subtitle: "Maroon 5",
+        description:["I miss the taste of a sweeter life","I miss the conversation","I like to think that we had it all, We drew a map to a better place","But on that road, I took a fall","Oh, baby, why did you run away?","I hear your voice in my sleep at night, Hard to resist temptation","'Cause something strange has come over me, And now, I can't get over you","So I'm following the map that leads to you, Ain't nothing I can do"],
+        url: "https://www.youtube.com/watch?v=_sIeccYNLKI"
+      },
+       {
         title: "chemical",
         subtitle: "Post Malone",
         description:["When I come back down, it doesn't feel the same","Now I'm sittin' 'round, waitin' for the world to end all day,'Cause I couldn't leave you if I tried","You break me, then I break my rules","Last time was the last time too","It's fucked up, I know, but I'm still","Tell you that I'm sorry, tell me what I gotta do","'Cause I can't let go, it's chemical","Every time I'm ready to make a change","I can't get away, maybe there's no mistakes","It's fucked up, I know, but I'm still...No, I can't let go, it's chemical"],
@@ -1295,12 +1559,6 @@ playlistSection: [
         subtitle: "Lil Nas X",
         description:["Need a boy(girl) who can cuddle with me all night", "Keep me warm, love me long, be my sunlight","Tell me lies, we can argue, we can fight,Yeah","we did it before, but we'll do it tonight","And I'm not known for giving love away","I want someone to love me, I need someone who needs me","'Cause it don't feel right when it's late at night And it's just me in my dreams","So I want someone to love, that's what I fucking want","Like, tell me, That's life, when I'm stressing at night","Let me in that thing, 'cause I'm not wanting anything, But your loving, your body, and a little bit of your brain"],
         url: "https://www.youtube.com/watch?v=zHd4rSpZn48"
-      },
-       {
-        title: "Maps",
-        subtitle: "Maroon 5",
-        description:["I miss the taste of a sweeter life","I miss the conversation","I like to think that we had it all, We drew a map to a better place","But on that road, I took a fall","Oh, baby, why did you run away?","I hear your voice in my sleep at night, Hard to resist temptation","'Cause something strange has come over me, And now, I can't get over you","So I'm following the map that leads to you, Ain't nothing I can do"],
-        url: "https://www.youtube.com/watch?v=_sIeccYNLKI"
       },
        {
         title: "broken arrows",
@@ -1645,7 +1903,1107 @@ playlistSection: [
         subtitle: "Lewis Capaldi",
         description:["I’m going under and this time I fear there’s no one to save me","This all or nothing really got a way of driving me crazy","I need somebody to heal, Somebody to know","Somebody to have ,Somebody to hold","It’s easy to say, But it’s never the same","I guess I kinda liked the way you numbed all the pain","Now the day bleeds, Into nightfall","And you’re not here, To get me through it all","I let my guard down","And then you pulled the rug","I was getting kinda used to being someone you loved","I guess I kinda liked the way you helped me escape","And IIIIIII, tend to close my eyes when it hurts sometimes","I fall into your arms, I’ll be safe in your sound ‘til I come back around","But now the day bleeds,And you’re not here","I let my guard down, you pulled the rug","I was getting kinda used to being someone you loved"],
         url: "https://www.youtube.com/watch?v=u1yVCeXYya4"
+      },{
+        title: "careless Whisper",
+        subtitle: "George Michael",
+        description:["I  feel so unsure","As I take your hand and lead you to the dance floor","As the music dies, something in your eyes","Calls to mind a silver screen and all its sad goodbyes","I'm never gonna dance again","Guilty feet have got no rhythm","Though it's easy to pretend","I know you're not a fool","I should have known better than to cheat a friend","And waste the chance that I'd been given","So I'm never gonna dance again","The way I danced with you, oh","Never without your love","Tonight, the music seems so loud","I wish that we could lose this crowd","Maybe its better this way","We'd hurt each other with the things we want to say","We could have been so good together","We could have lived this dance forever","But now, who's gonna dance with me?","Please stayyy","And I'm never gonna dance again, guilty feet has got no rhythm","So I'm never gonna dance again","The way I danced with you, oh","Now that you're gone","Was what I did so wrong, so wrong","That you had to leave me alone"],
+        url: "https://www.youtube.com/watch?v=JqIHlDVqUTw"
+      },{
+        title: "Marry you",
+        subtitle: "Bruno Mars",
+        description:["It's a beautiful night","we're looking for something dumb to do","Hey, baby, I think I wanna marry you","Who cares, baby? I think I wanna marry you","Well, I know this little chapel on the boulevard" ,"we can goooooo","No one will knoooooow","oh, come on girl","Who cares if we're trashed?"," Got a pocket full of cash" ,"we can bloooooow","Shots of Patrón and it's on, girl","Don't say no, no, no, no, no","Just say yeah, yeah, yeah, yeah, yeah","And we'll go, go, go, go, go","If you're ready, like I'm ready","'Cause it's a beautiful night, we're looking for something dumb to do","Hey, baby, I think I wanna marry you","I'll go get a ring, let the choir bells sing like, ooh","So what ya wanna do?","Let's just run, girl","If we wake up and you wanna break up, that's cool","No, I won't blame you, it was fun, girl","Just say, I doooooooo","Tell me right now, baby, baby, oh","It's a beautiful night, we're looking for something dumb to do","Hey, baby, I think I wanna marry you"],
+        url: "https://www.youtube.com/watch?v=dElRVQFqj-k"
+      },{
+        title: "Just the Way you are",
+        subtitle: "Bruno Mars",
+        description:["Oh, her eyes, her eyes","Make the stars look like they're not shining","Her hair, her hair","Falls perfectly without her trying","She's so beautiful","And I tell her every daaaaay","Yeah, I know, I know","When I compliment her, she won't believe me (scemotta)","And it's so, it's so,Sad to think that she don't see what I see","But every time she asks me", "Do I look okay?","I sayyyyyyy","When I see your faceeee","There's not a thing that I would change","'Cause you're amazing","Just the way you are","And when you smile","The whole world stops and stares for a while","'Cause girl, you're amazing","Just the way you are","Her lips, her lips","I could kiss them all day if she'd let me (magari)","Her laugh, her laugh","She hates, but I think it's so sexy","She's so beautiful","And I tell her every day","Oh, you know, you know, you know","I'd never ask you to change","If perfect's what you're searching for","Then just stay the same","So don't even bother asking if you look okay","You know I'll saaaaaaaaaay","When I see your faceeee","There's not a thing that I would change","'Cause you're amazing","Just the way you are","And when you smile","The whole world stops and stares for a while","'Cause girl, you're amazing","Just the way you are"],
+        url: "https://www.youtube.com/watch?v=u7XjPmN-tHw"
+      },{
+        title: "In Your Arms",
+        subtitle: "Nico & Vinz, Alesso",
+        description:["I feel like Superman, they gon' remember me","I think I know I can, who says it's hard to reach?","Who's gonna stop me on the road to success?","I don't know","Sometimes I feel like I can't run, I can't crawl","And sometimes I feel like I ain't nothing at all","Life is a journey where you stumble and fall","But I'm okay when I lie down in your arms","Oh-oh-oh-oh-oh","When I lie down in your arms","My time went by too fast, there is no one left but me","I have got a nine to five and it gets the best of me","Life is a journey where you stumble and fall","But I'm okay when I lie down in your arms"],
+        url: "https://www.youtube.com/watch?v=361YTYs0mI0"
+      },{
+        title: "Hymn for the weekend",
+        subtitle: "Coldplay",
+        description:["drink from me, drink from me","Oh, angel sent from up above","You know you make my world light up","When I was down, when I was hurt","You came to lift me up","Life is a drink and love's a drug","Oh, now I think I must be miles up","When I was a river, dried up","You came to rain a flood","You said, Drink from me, drink from me","When I was so thirsty","Pour on a symphony","Now I just can't get enough","Put your wings on me, wings on me","When I was so heavy","Pour on a symphony","When I'm low, low, low, low","Got me feeling drunk and high","Now I'm feeling drunk and high"],
+        url: "https://www.youtube.com/watch?v=DzlfEih1NCM"
+      },{
+        title: "When love takes over",
+        subtitle: "David Guetta",
+        description:["It's complicated","It always is","That's just the way it goes (quando è importante)","Feels like I've waited so long for this","I wonder if it shows","Head underwater, Now I can't breathe","It never felt so good","'Cause I can feel it coming over me","I wouldn't stop it if I could (e non posso)","When love takes over, yeah","You know you can't deny (impossibile)","When love takes over, yeah","'Cause something's here tonight","Give me a reason","I gotta know","Do you feel it too?","Can't you see me here on overload?","And this time I blame you, hmm","Looking out for you to hold my hand","It feels like I could fall","Now love me right like I know you can","We could lose it all","And I-I'll be loving you all the time, it's true (sempre...)","'Cause I, I'll wanna make it right with you","When love takes over, yeah","You know you can't deny","When love takes over, yeah","'Cause something's here tonight"],
+        url: "https://www.youtube.com/watch?v=X-OSOtL401o"
+      },{
+        title: "Beautiful now",
+        subtitle: "Zedd",
+        description:["I see what you're wearing","There's nothing beneath it",
+                      "Forgive me for staring", "Forgive me for breathing",
+                      "We might not know why, we might not know how","But, baby, tonight we're beautiful now",
+                      "We'll light up the sky; we'll open the clouds",
+                      "'Cause, baby, tonight we're beautiful now",
+                      "We're beautiful",
+                      "Wherever it's going, I'm gonna chase it",
+                      "What's left of this moment, I'm not gonna waste it",
+                      "Stranded together, our worlds have collided",
+                      "This won't be forever, so why try to fight it?",
+                      "We're beautiful now",
+                      "You're beautiful",
+                      "Let's live tonight like fireflies",
+                      "And one by one light up the sky",
+                      "We disappear and pass the crown",
+                      "You're beautiful, you're beautiful",
+                      "We're beautiful now","Sei Bellissima"],
+        url: "https://www.youtube.com/watch?v=kpwVAz0yekQ"
+      },{
+        title: "Adventure of a Lifetime",
+        subtitle: "Coldplay",
+        description:["Turn your magic on, to me she'd say","Everything you want's a dream away","We are legends, every day","That's what she told him","Under this pressure, under this weight","We are diamonds","Now I feel my heart beating (finalmente)","I feel my heart beneath my skin","I feel my heart beating","Oh, you make me feel","Like I'm alive agaaaaain (Grazie)","Said I can't go on, not in this way","I'm a dream that died by light of day","Gonna hold up half the sky and say","Only I own me","If we've only got this life","This adventure, oh then I","And if we've only got this life","You'll get me through, oh","And this adventure, oh then" ,"I Wanna share it with you","We are diamonds taking shape"],
+        url: "https://www.youtube.com/watch?v=-5IXuIvDWu0"
+      },{
+        title: "Lovers on the sun",
+        subtitle: "David Guetta",
+        description:["Let's light it up, let's light it up","Until our hearts catch fire",
+          "Then show the world a burning light","That never shined so bright","We'll find a way; we'll find a way","To keep the cold night","From breaking in over the walls","Onto the wild side","The hunger's satisfied","We're burning up","We might as well be lovers on the sun","Just close your eyes and hold your breath","Because it feels right","We'll keep it moving 'til we make it to the other side","And let's enjoy the ride","Let's light it up, let's light it up","Until our hearts catch fire","Then show the world a burning light","That never shined so bright"],
+        url: "https://www.youtube.com/watch?v=RM4TfzprAwg"
+      },{
+        title: "With or Without you",
+        subtitle: "U2",
+        description:["See the stone set in your eyes","See the thorn twist in your side","I wait for you","Sleight of hand and twist of fate","On a bed of nails she makes me wait","And I wait without you","With or without you","Through the storm we reach the shore","You give it all but I want more","And I'm waiting for you","With or without you"],
+        url: "https://www.youtube.com/watch?v=RM4TfzprAwg"
+      },{
+        title: "Postcards",
+        subtitle: "James Blunt",
+        description:["Sundays sitting on your back porch",
+"And I came on with a couple of chords","And I played for you","And tell you how it is, I really feel for you","I'm sending postcards from my heart",
+"Your love for a postmark and then",
+"You know that you make me feel like",
+"We've been caught like kids in the school yard again",
+"And I can't keep it to myself","Can't spell it any better, L.O.V.E forever",
+"I hope you know that",
+"I'm sending a postcard",
+"I don't care who sees what I've said",
+"Or if the whole world knows what's in my head","You know sometimes it's hard to see",
+"You say the words that torture me",
+"But inside I know exactly how I feel",
+"The things that I can't say out loud",
+"I'll find a place to write it down (qui per esempio)",
+"I hope that they will find you in the end",
+"I'm sending postcards from my heart",
+"Your love for a postmark and then",
+"You know that you make me feel like",
+"We've been caught like kids in the school yard again",
+"And I can't keep it to myself","Can't spell it any better, L.O.V.E forever",
+"I hope you know that",
+"I'm sending a postcard",
+"I don't care who sees what I've said","Or if the whole world knows what's in my head","All the things I want you to know, know, know"],
+        url: "https://www.youtube.com/watch?v=VU5chvW2wi4"
+      },{
+        title: "I Wanna Know",
+        subtitle: "Alesso",
+        description:["I've been hit by stars",
+"A beauty you are, a beauty you are",
+"Day turns into night",
+"You light up my dark, you light up my dark",
+"You're the one that I see waking up next to me",
+"And I hope it's the same for you",
+"But you play with my mind when you send me these signs",
+"And I see other guys get 'em too",
+"I wanna know, I wanna know",
+"Hey-ey-ey, hey-ey-ey",
+"Where do we go? Where do we go?",
+"Why are you keeping me on hold?",
+"Don't wanna leave this place alone",
+"Is it a yes or is it no? (Ah-ooh)",
+"I wanna know, I wanna know","Diamonds in your eyes cover your lies","Trust me, we can be special tonight","I wanna know, I wanna know","I Want Youuuuu"],
+        url: "https://www.youtube.com/watch?v=Z_BBnI_fmdQ"
+      },{
+        title: "Circles",
+        subtitle: "Post Malone",
+        description:["Oh,  oh, oh, oh, oh","We couldn't turn around",
+"'Til we were upside down",
+"I'll be the bad guy now",
+"But know I ain't too proud","I couldn't be there",
+"Even when I tried",
+"You don't believe it","Seasons change and our love went cold",
+"Feed the flame 'cause we can't let go",
+"Run away, but we're running in circles","I dare you to do something",
+"I'm waiting on you again",
+"So I don't take the blame",
+"Run away, but we're running in circles","You thought that it was special, special","And I still hear the echoes","Feed the flame 'cause we can't let go","Maybe you don't understand what I'm going through","It's only me","What you got to lose?","Make up your mind, tell me, what are you gonna do?","It's only me","Let it goooooo"
+
+],
+        url: "https://www.youtube.com/watch?v=WnLIGgTaBM0"
+      },{
+        title: "Thinking out Loud",
+        subtitle: "Ed Sheeran",
+        description:["Will your mouth still remember the taste of my love","Will your eyes still smile from your cheeks","And darling I will be loving you 'til we're 70","(100 anni minimo, Ed Sheeran meno)","And baby my heart could still fall as hard at 23","And I'm thinking 'bout","people fall in love in mysterious ways","Maybe just the touch of a hand","Oh me I fall in love with you every single day (assurdo)","And I just wanna tell you I am (gia lo sai)","So honey now","Take me into your loving arms",
+"Kiss me under the light of a thousand stars",
+"Place your head on my beating heart (batte solo per te)",
+"I'm thinking out loud",
+"Maybe we found love right where we are","I know you will still love me the same","(e tu lo sai di me)","'Cause honey your soul can never grow old","Its Evergreen","Baby your smile's forever in my mind and memory","Maybe it's all part of a plan","I'll just keep on making the same mistakes","Hoping that you'll understand","So Baby now","Take me into your loving arms",
+"Kiss me under the light of a thousand stars",
+"Place your head on my beating heart",
+"I'm thinking out loud",
+"Maybe we found love right where we are","And we found love right where we are"],
+        url: "https://www.youtube.com/watch?v=XMPgVZtADtQ"
       }
+      ,{
+        title: "take me out",
+        subtitle: "Franz Ferdinand",
+        description:["So if you're lonely","You know I'm here waiting for you","I'm just a shot away from you","And if you leave here, You leave me broken, shattered I lie","I know I won't be leaving here with you","I say, Don't you know? You say, You don't know","I say, Take me out"],
+        url: "https://www.youtube.com/watch?v=A8IcedBzs14"
+      },{
+        title: "Human",
+        subtitle: "The Killers",
+        description:["I did my best to notice",
+          "When the call came down the line",
+          "Up to the platform of surrender",
+          "I was brought, but I was kind","And sometimes I get nervous (capita)",
+          "When I see an open door",
+          "Close your eyes, clear your heart",
+          "Cut the cord","Will your system be alright",
+          "When you dream of home tonight?",
+          "There is no message we're receiving",
+          "Let me know, is your heart still beating?","Are we human or are we dancer?",
+          "My sign is vital","my hands are cold",
+          "And I'm on my knees","Looking for the answer","Are we human or are we dancer?","balliamo una vita insieme cla"],
+        url: "https://www.youtube.com/watch?v=1irwugJ8W8A"
+      },{
+        title: "Mary On A Cross",
+        subtitle: "Ghost",
+        description:["We were speeding together",
+          "Down the dark avenues",
+          "But besides of the stardom",
+          "All we got was blues",
+          "But through all of that sorrow",
+          "We were riding high",
+          "And the truth of the matter is",
+          "I never let you go, let you go","(mai via dal mio cuore)","You go down just like Holy Mary",
+          "Mary on a, Mary on a cross",
+          "Not just another Bloody Mary",
+          "Mary on a, Mary on a cross","If you choose to run away with me",
+          "I will tickle you internally",
+          "And I see nothing wrong with that","Now through all of this sorrow",
+          "We'll be riding high",
+          "And the truth of the matter is",
+          "I never let you go, let you gooooooo","You go down just like Holy Mary","Your beauty never ever scared me","If you choose to run away with me",
+          "I will tickle you internally","Nothing wrong with that","sempre"
+          ],
+        url: "https://www.youtube.com/watch?v=8JMMjCyyznI"
+      },{
+        title: "Viva La Vida",
+        subtitle: "Coldplay",
+        description:["Eccome se mi hai fatto sentire così","Un Re e poi nessuno, ma un Re","I used to rule the world",
+                      "Seas would rise when I gave the word",
+                      "Now in the mornin', I sleep alone",
+                      "Sweep the streets I used to own","One minute, I held the key",
+                      "Next, the walls were closed on me",
+                      "And I discovered that my castles stand",
+                      "Upon pillars of salt and pillars of sand","I hear Jerusalem bells a-ringin'",
+                      "Roman cavalry choirs are singin'",
+                      "Be my mirror, my sword and shield",
+                      "My missionaries in a foreign field",
+                      "For some reason, I can't explain",
+                      "Once you'd gone, there was never",
+                      "Never an honest word",
+                      "And that was when I ruled the world","It was a wicked and wild wind",
+                      "Blew down the doors to let me in",
+                      "Shattered windows and the sound of drums",
+                      "People couldn't believe what I'd become",
+                      "And revolutionaries wait",
+                      "For my head on a silver plate",
+                      "Just a puppet on a lonely string" ,
+                      "Aw, who would ever wanna be king? (Io lo voglio)","For some reason, I can't explain",
+                      "I know Saint Peter won't call my name",
+                      "Never an honest word",
+                      "But that was when I ruled the world"
+                      ],
+        url: "https://www.youtube.com/watch?v=y4zdDXPYo0I"
+      },{
+        title: "Wonderwall",
+        subtitle: "Oasis",
+        description:["Today is gonna be the day that they're gonna throw it back to you","By now, you should've somehow realised what you gotta do","I don't believe that anybody feels the way I do about you noooow",
+        "And backbeat, the word is on the street","that the fire in your heart is out",
+        "I'm sure you've heard it all before", "but you never really had a doubt",
+        "I don't believe that anybody","feels the way I do about you now (non posso crederci)",
+        "And all the roads we have to walk are winding",
+        "And all the lights that lead us there are blinding",
+        "There are many things that I would like to say to you",
+        "But I don't know hooooooow",
+        "Because maybeeeeeeee",
+        "You're gonna be the one that saves meeeeee",
+        "And after aaaaaaaaall",
+        "You're my wonderwaaaaaaaaall","lo sei","I said, Maybeeeeeeeeeeee",
+        "You're gonna be the one that saves meeeee","after all","You're gonna be the one that saves me"
+        ],
+        url: "https://www.youtube.com/watch?v=NbSzTi0d6pQ"
+      },{
+        title: "I aint Worried",
+        subtitle: "One Republic",
+        description:["I don't know what you've been told",
+                    "But time is running out, no need to take it slow",
+                    "I'm stepping to you toe-to-toe",
+                    "I should be scared, honey, maybe so","But I ain't worried 'bout it right now",
+                    "Keeping dreams alive, 1999, heroes",
+                    "I ain't worried 'bout it right now",
+                    "Swimmin' in the floods, dancing on the clouds below","I don't know what you've been told",
+                    "But time is running out","so spend it like it's gold",
+                    "I'm living like I'm nine-zeros",
+                    "Got no regrets even when I'm broke, yeah","I'll take it in and let it go","I ain't worried 'bout it"],
+        url: "https://www.youtube.com/watch?v=mNEUkkoUoIA"
+      },,{
+        title: "Ain't no Sunshine",
+        subtitle: "Bill Whiters",
+        description:["Ain't no sunshine when she's gone",
+                    "It's not warm when she's away",
+                    "Ain't no sunshine when she's gone",
+                    "And she's always gone too long",
+                    "Anytime she's goes away",
+                    "Wonder this time where she's gone",
+                    "Wonder if she's gone to stay",
+                    "Ain't no sunshine when she's gone",
+                    "And this house just ain't no home",
+                    "Anytime she goes away","And I know, I know, I know, I know....","Hey, I ought to leave young thing alone",
+                    "But ain't no sunshine when she's gone","Only darkness every day",
+                    "Ain't no sunshine when she's gone",
+                    "And this house just ain't no home",
+                    "Anytime she goes away"],
+        url: "https://www.youtube.com/watch?v=C_lX7RoY3k8"
+      },{
+        title: "You Make My dreams",
+        subtitle: "Daryl Hall & John Oates",
+        description:["rock baby!!!!!","What I want you've got",
+                      "And it might be hard to handle",
+                      "Like the flame that burns the candle",
+                      "The candle feeds the flame",
+                      "What I've got's full stock",
+                      "Of thoughts and dreams that scatter",
+                      "You pull them all together",
+                      "And how I can't explain",
+                      "Well, well you", "you make my dreams come true","On a night when bad dreams become a screamer",
+                      "When they're messin with the dreamer",
+                      "I can laugh it in the face",
+                      "Twist and shout my way out",
+                      "And wrap yourself around me",
+                      "Cause I ain't the way you found me",
+                      "And I'll never be the same","I'm down on my daydream",
+                      "Oh that sleepwalk should be over by now I know","Well, well you", "you make my dreams come true"],
+        url: "https://www.youtube.com/watch?v=49BQKU5wflk"
+      },{
+        title: "Layla",
+        subtitle: "Eric Clapton",
+        description:["What'll you do when you get lonely",
+                      "And nobody's waiting by your side?",
+                      "You've been running and hiding much too long",
+                      "You know it's just your foolish pride",
+                      "Layla, you've got me on my knees",
+                      "Layla, I'm begging, darling please",
+                      "Layla, darling won't you ease my worried mind.",
+                    "I tried to give you consolation","When your old man had let you down.",
+"Like a fool, I fell in love with you",
+"Turned my whole world upside down.","Let's make the best of the situation",
+"Before I finally go insane",
+"Please don't say we'll never find a way",
+"And tell me all my love's in vain","Claudiaaaa, you've got me on my knees",
+                      "Claudiaa, I'm begging, darling please",
+                      "Claudiaaa, darling won't you ease my worried mind.",
+],
+        url: "https://www.youtube.com/watch?v=cs-sks4dtww"
+      }
+    ]
+  },
+  {
+    name: "Rock n'Roll Baby",
+    description: "Il Rock che scateni in me!",
+    songs: [
+      
+       {
+        title: "take me out",
+        subtitle: "Franz Ferdinand",
+        description:["So if you're lonely","You know I'm here waiting for you","I'm just a shot away from you","And if you leave here, You leave me broken, shattered I lie","I know I won't be leaving here with you","I say, Don't you know? You say, You don't know","I say, Take me out"],
+        url: "https://www.youtube.com/watch?v=A8IcedBzs14"
+      },{
+        title: "Everybody Wants to Rule the world",
+        subtitle: "Tears for Fears",
+        description:["Welcome to your life",
+"There's no turning back",
+"Even while we sleep",
+"We will find you",
+"Acting on your best behaviour",
+"Turn your back on mother nature",
+"Everybody wants to rule the world","It's my own design",
+"It's my own remorse",
+"Help me to decide",
+"Help me make the most",
+"Of freedom and of pleasure",
+"Nothing ever lasts forever (sicuri?)","Everybody Wants to rule the World"],
+        url: "https://www.youtube.com/watch?v=SRAq0CUM6-Y"
+      },{
+        title: "Jump",
+        subtitle: "Van Hallen",
+        description:["I get up, and nothing gets me down.",
+"You got it tough." ,"I've seen the toughest around.",
+"And I know, baby, just how you feel.","You've got to roll with the punches to get to what's real",
+"Oh can't you see me standing here,",
+"I've got my back against the record machine",
+"I ain't the worst that you've seen.",
+"Oh can't you see what I mean ?",
+"Might as well jump. Jump !","Baby how you been?","You say you don't know",
+"until we begin.","Oh can't you see what I mean?",
+"Might as well jump. Jump !",
+"Go ahead, jump."],
+        url: "https://www.youtube.com/watch?v=NUTjBxSnkAs"
+      },{
+        title: "Aka... What a Life",
+        subtitle: "Noel Gallagher",
+        description:["Someday you might find your hero","Some say you might lose your mind","I'm out of my mind","let me pour me another","I'm going to take that tiger outside for a riiiiide","What a Liiiiiiiiifeeeee"],
+        url: "https://www.youtube.com/watch?v=FWbbqzY8g0s"
+      },{
+        title: "Human",
+        subtitle: "The Killers",
+        description:["I did my best to notice",
+          "When the call came down the line",
+          "Up to the platform of surrender",
+          "I was brought, but I was kind","And sometimes I get nervous (capita)",
+          "When I see an open door",
+          "Close your eyes, clear your heart",
+          "Cut the cord","Will your system be alright",
+          "When you dream of home tonight?",
+          "There is no message we're receiving",
+          "Let me know, is your heart still beating?","Are we human or are we dancer?",
+          "My sign is vital","my hands are cold",
+          "And I'm on my knees","Looking for the answer","Are we human or are we dancer?","balliamo una vita insieme cla"],
+        url: "https://www.youtube.com/watch?v=1irwugJ8W8A"
+      },{
+        title: "Mary On A Cross",
+        subtitle: "Ghost",
+        description:["We were speeding together",
+          "Down the dark avenues",
+          "But besides of the stardom",
+          "All we got was blues",
+          "But through all of that sorrow",
+          "We were riding high",
+          "And the truth of the matter is",
+          "I never let you go, let you go","(mai via dal mio cuore)","You go down just like Holy Mary",
+          "Mary on a, Mary on a cross",
+          "Not just another Bloody Mary",
+          "Mary on a, Mary on a cross","If you choose to run away with me",
+          "I will tickle you internally",
+          "And I see nothing wrong with that","Now through all of this sorrow",
+          "We'll be riding high",
+          "And the truth of the matter is",
+          "I never let you go, let you gooooooo","You go down just like Holy Mary","Your beauty never ever scared me","If you choose to run away with me",
+          "I will tickle you internally","Nothing wrong with that","sempre"
+          ],
+        url: "https://www.youtube.com/watch?v=8JMMjCyyznI"
+      },{
+        title: "Bitter Sweet Symphony",
+        subtitle: "The Verve",
+        description:["'Cause it's a bittersweet symphony, that's life","I'll take you down the only road I've ever been down","You know the one that takes you to the places where all the veins meet, yeah","No change, I can change","But I'm here in my mold","But I'm a million different people","I can't change my mold","Have you ever been down?","'Cause it's a bittersweet symphony, that's life","Tryna make ends meet","tryna find somebody then you die"],
+        url: "https://www.youtube.com/watch?v=tvx_W4UFVDc"
+      },{
+        title: "Dream On",
+        subtitle: "Aerosmith",
+        description:["Every time that I look in the mirror",
+"All these lines on my face getting clearer",
+"The past is gone",
+"Oh, it went by like dusk to dawn","I know nobody knows",
+"Where it comes and where it goes",
+"I know it's everybody's sin",
+"You got to lose to know how to win",
+"Half my life's in books' written pages",
+"Storing facts learned from fools and from sages",
+"You knoooow its Trueeeeeee","All the Things","Come back to Youuuuuuu","Sing with me, sing for the years",
+"sing for the laughter and sing for the tears",
+"sing with me, if it's just for today (perchè non per sempre?)",
+"maybe tomorrow the good Lord will take you away","Dream on, dream on, dream on",
+"dream yourself a dream come true","and dream until your dream comes true"],
+        url: "https://www.youtube.com/watch?v=JojwHc1MKag"
+      },{
+        title: "Dont Look Back in anger",
+        subtitle: "Oasis",
+        description:["Slip inside the eye of your mind",
+"Don't you know you might find",
+"A better place to play?",
+"You said that you'd never been",
+"But all the things that you've seen",
+"Will slowly fade away","Take me to the place where you go",
+"Where nobody knows",
+"If it's night or day",
+,"So I start a revolution from my bed",
+"'Cause you said the brains I had went to my head",
+"Step outside, summertime's in bloom",
+"Stand up beside the fireplace",
+"Take that look from off your face",
+"You ain't ever gonna burn my heart oooooooooout","And so, Sally can wait",
+"She knows it's too late as we're walkin' on by",
+"Her soul slides away",
+"But don't look back in anger","I heard you say"],
+        url: "https://www.youtube.com/watch?v=639wzt3LYEw"
+      },{
+        title: "Viva La Vida",
+        subtitle: "Coldplay",
+        description:["Eccome se mi hai fatto sentire così","Un Re e poi nessuno, ma un Re","I used to rule the world",
+                      "Seas would rise when I gave the word",
+                      "Now in the mornin', I sleep alone",
+                      "Sweep the streets I used to own","One minute, I held the key",
+                      "Next, the walls were closed on me",
+                      "And I discovered that my castles stand",
+                      "Upon pillars of salt and pillars of sand","I hear Jerusalem bells a-ringin'",
+                      "Roman cavalry choirs are singin'",
+                      "Be my mirror, my sword and shield",
+                      "My missionaries in a foreign field",
+                      "For some reason, I can't explain",
+                      "Once you'd gone, there was never",
+                      "Never an honest word",
+                      "And that was when I ruled the world","It was a wicked and wild wind",
+                      "Blew down the doors to let me in",
+                      "Shattered windows and the sound of drums",
+                      "People couldn't believe what I'd become",
+                      "And revolutionaries wait",
+                      "For my head on a silver plate",
+                      "Just a puppet on a lonely string" ,
+                      "Aw, who would ever wanna be king? (Io lo voglio)","For some reason, I can't explain",
+                      "I know Saint Peter won't call my name",
+                      "Never an honest word",
+                      "But that was when I ruled the world"
+                      ],
+        url: "https://www.youtube.com/watch?v=y4zdDXPYo0I"
+      },{
+        title: "Wonderwall",
+        subtitle: "Oasis",
+        description:["Today is gonna be the day that they're gonna throw it back to you","By now, you should've somehow realised what you gotta do","I don't believe that anybody feels the way I do about you noooow",
+        "And backbeat, the word is on the street","that the fire in your heart is out",
+        "I'm sure you've heard it all before", "but you never really had a doubt",
+        "I don't believe that anybody","feels the way I do about you now (non posso crederci)",
+        "And all the roads we have to walk are winding",
+        "And all the lights that lead us there are blinding",
+        "There are many things that I would like to say to you",
+        "But I don't know hooooooow",
+        "Because maybeeeeeeee",
+        "You're gonna be the one that saves meeeeee",
+        "And after aaaaaaaaall",
+        "You're my wonderwaaaaaaaaall","lo sei","I said, Maybeeeeeeeeeeee",
+        "You're gonna be the one that saves meeeee","after all","You're gonna be the one that saves me"
+        ],
+        url: "https://www.youtube.com/watch?v=NbSzTi0d6pQ"
+      },{
+        title: "Im Still Standing",
+        subtitle: "Elton John",
+        description:["You could never know what it's like",
+                      "Your blood, like winter, freezes just like ice",
+                      "And there's a cold, lonely light that shines from you",
+                      "You'll wind up like the wreck you hide behind that mask you use",
+                      "And did you think this fool could never win?",
+                      "Well, look at me", "I'm a-comin' back again",
+                      "I got a taste of love in a simple way",
+                      "And if you need to know while I'm still standin'","You Just fade away (insomma..)", "Don't you know?","I'm still standin' better than I ever did?",
+                      "Lookin' like a true survivor", "feelin' like a little kid",
+                      "And I'm still standin' after all this time",
+                      "Pickin' up the pieces of my life","without you on my mind (insomma...)","Once, I never coulda hoped to win",
+                      "You're startin' down the road", "leavin' me again",
+                      "The threats you made were meant to cut me down",
+                      "And if our love was just a circus", "you'd be a clown by now", "Don't you know?","I'm still standin' better than I ever did?","Lookin' like a true survivor", "feelin' like a little kid","Pickin' up the pieces of my life without you on my mind","Io rimetto a posto i miei pezzi e nulla mi abbatte, ma rimarrai nella mia testa..."
+                      ],
+        url: "https://www.youtube.com/watch?v=MJ_aPtt4U8M"
+      },{
+        title: "Otherside",
+        subtitle: "Red Hot Chilly Peppers",
+        description:["How long, how long will I slide?",
+                      "Well, separate my side",
+                      "I don't, I don't believe it's bad",
+                      "Slittin' my throat, it's all I ever",
+                      "I heard your voice through a photograph",
+                      "I thought it up and brought up the past",
+                      "Once you know you can never go back",
+                      "I gotta take it on the otherside","Well, centuries are what it meant to me",
+                      "A cemetery where I marry the sea",
+                      "A stranger thing could never change my mind (cazzo)",
+                      "I gotta take it on the otherside","A scarlet starlet and she's in my bed",
+                      "A candidate for the soulmate bled",
+                      "Mm, push the trigger and I pull the thread",
+                      "I gotta take it on the otherside","Turn me on, take me for a hard ride",
+                      "Burn me out", "leave me on the otherside",
+                      "I yell and tell it that it's not my friend",
+                      "I tear it down, I tear it down", "and then it's born again","How long, how long will I slide?",
+                      "Separate my side",
+                      "I don't, I don't believe it's bad",
+                      "slittin' my throat it's all I ever had"],
+                              url: "https://www.youtube.com/watch?v=NHH8ENlkMC0"
+                            },{
+                              title: "Cant Stop",
+                              subtitle: "Red Hot Chilly Peppers",
+                              description:["Can't stop, addicted to the shindig",
+                      "Chop Top, he says I'm gonna win big",
+                      "Choose not a life of imitation","This punk, the feelin' that you stay for",
+                      "In time, I want to be your best friend",
+                      "East Side love is living on the West End","The world I love, the tears I drop",
+                      "To be part of the wave, can't stop",
+                      "Ever wonder if it's all for you?",
+                      "The world I love, the trains I hop",
+                      "To be part of the wave, can't stop",
+                      "Come and tell me when it's time to","Wait a minute, I'm passin' out, win or lose",
+                      "Just like you",
+                      "Far more shocking than anything I ever knew",
+                      "How about you?","Kick-start the golden generator",
+                      "Sweet talk but don't intimidate her LOL",
+                      "Can't stop the gods from engineering LOL",
+                      "Feel no need for any interfering",
+                      "Your image in the dictionary",
+                      "This life is more than ordinary",
+                      "Can I get two, maybe even three of these?",
+                      "Comin' from space to teach you of the Pleiades",
+                      "Can't stop the spirits when they need you",
+                      "This life is more than just a read-through"],
+                              url: "https://www.youtube.com/watch?v=8a-9Sd35HNI"
+                            },{
+                              title: "Beautiful Day",
+                              subtitle: "U2",
+                              description:["Shoots up through the stony ground",
+                      "There's no room",
+                      "No space to rent in this town",
+                      "You're out of luck",
+                      "And the reason that you had to care",
+                      "You thought you'd find a friend",
+                      "To take you out of this place",
+                      "Someone you could lend a hand",
+                      "In return for grace",
+                      "It's a beautiful day",
+                      "Sky is false, you feel like",
+                      "Beautiful day",
+                      "Don't let it get away","Touch me",
+                      "Take me to another place",
+                      "Teach me",
+                      "I know I'm not a hopeless case","What you don't have you don't need it now",
+                      "What you don't know you can feel it somehow",
+                      "What you don't have you don't need it now",
+                      "Don't need it now",
+                      "It's a beautiful day",
+                      "It's a beautiful day"],
+        url: "https://www.youtube.com/watch?v=hJ_burYdegk"
+      },{
+        title: "I aint Worried",
+        subtitle: "One Republic",
+        description:["I don't know what you've been told",
+                    "But time is running out, no need to take it slow",
+                    "I'm stepping to you toe-to-toe",
+                    "I should be scared, honey, maybe so","But I ain't worried 'bout it right now",
+                    "Keeping dreams alive, 1999, heroes",
+                    "I ain't worried 'bout it right now",
+                    "Swimmin' in the floods, dancing on the clouds below","I don't know what you've been told",
+                    "But time is running out","so spend it like it's gold",
+                    "I'm living like I'm nine-zeros",
+                    "Got no regrets even when I'm broke, yeah","I'll take it in and let it go","I ain't worried 'bout it"],
+        url: "https://www.youtube.com/watch?v=mNEUkkoUoIA"
+      },{
+        title: "Came as you are",
+        subtitle: "Nirvana",
+        description:["Come as you are, as you were",
+                      "As I want you to be",
+                      "As a friend, as a friend",
+                      "As an old enemy",
+                      "Take your time, hurry up",
+                      "Choice is yours, don't be late",
+                      "Take a rest as a friend",
+                      "As an old memoria",
+                      ],
+        url: "https://www.youtube.com/watch?v=9I9c20LHmzY"
+      },{
+        title: "Fly Away",
+        subtitle: "Lenny Krevitz",
+        description:["I wish that I could fly",
+                      "Into the sky",
+                      "So very high",
+                      "Just like a dragonfly",
+                      "I'd fly above the trees",
+                      "Over the seas",
+                      "In all degrees",
+                      "To anywhere I please",
+                      "Oh, I want to get away",
+                      "I want to fly away","Let's go and see the stars",
+                      "The Milky Way",
+                      "Or even Mars",
+                      "Where it could just be ours",
+                      "Let's fade into the sun",
+                      "Let your spirit fly",
+                      "Where we are one",
+                      "Just for a little fun",
+                      "Oh, oh, oh yeah","I want to get away",
+                      "I want to fly away",
+                      "Yeah, yeah, yeah","With you","Girl I got to get away","I want to fly away with you"],
+        url: "https://www.youtube.com/watch?v=BQZzwnQ5PBk"
+      },{
+        title: "Dancin in the moonlight",
+        subtitle: "Toploader",
+        description:["We get it on most every night",
+                    "When that moon is big and bright",
+                    "It's a supernatural delight",
+                    "Everybody's dancing in the moonlight","Everybody's feelin' warm and bright",
+                    "It's such a fine and natural sight",
+                    "Everybody's dancing in the moonlight","We like our fun and we never fight",
+                    "You can't dance and stay uptight",
+                    "It's a supernatural delight",
+                    "Everybody was dancing in the moonlight"],
+        url: "https://www.youtube.com/watch?v=5Sx7xqv_oYk"
+      },{
+        title: "I was Made for Lovin'you",
+        subtitle: "Kiss",
+        description:["Tonight",
+                    "I wanna give it all to you",
+                    "In the darkness",
+                    "There's so much I wanna do",
+                    "And tonight",
+                    "I wanna lay it at your feet",
+                    "'Cause, girl, I was made for you","Nato per amarti, è la mia natura",
+                    "And, girl, you were made for me","I was made for lovin' you, baby",
+                    "You were made for lovin' me",
+                    "And I can't get enough of you, baby",
+                    "Can you get enough of me?","Tonight",
+                    "I wanna see it in your eyes",
+                    "Feel the magic",
+                    "There's something that drives me wild",
+                    "And tonight",
+                    "We're gonna make it all come true",
+                    "'Cause, girl, you were made for me",
+                    "And, girl, I was made for you","I was made for lovin' you, baby",
+                    "You were made for lovin' me",
+                    "And I can give it all to you, baby",
+                    "Can you give it all to me?","Oh, I was made",
+                    "You were made",
+                    "I can't get enough",
+                    "No, I can't get enough"],
+        url: "https://www.youtube.com/watch?v=_mIiR7ATeF4"
+      },{
+        title: "Vampire Diaries",
+        subtitle: "MGK",
+        description:["I sleep against the bedroom wall",
+                    "The sun comes out", "and I can't do nothing at all",
+                    "I swear the life I live so boring",
+                    "I don't know why they make it look so cool in stories",
+                    "'Cause I can't leave 'til it's night time", "and I can't drink what I want",
+                    "Tried to find the silver lining", "Sei tu il mio argento","but it'll kill me if I touch",
+                    "And just walkin' in the daylight" ,"is something I've never done",
+                    "'Cause I was born to fly", "but, baby, I would die to run, so",
+                    "Take, take, take me out",
+                    "There's so much I haven't seen", "don't let me rot inside this town",
+                    "Take, take, take me out",
+                    "I know how it's gonna end", "but it's too late to turn around (hey)","I let my fangs show", "smile for the cameras",
+                    "Cut both my wings so no one can tell",
+                    "Find me in twilight","turnin' to ashes",
+                    "If it's my last breath, I'm happy as hell","Take, take, take me out","There's so much I haven't seen", "don't let me rot inside this town","'Cause I was born to fly, but, baby","With you I would die to run"],
+        url: "https://www.youtube.com/watch?v=_WdVeebvhEA"
+      },{
+        title: "In the Air Tonight",
+        subtitle: "Phil Collins",
+        description:["I can feel it coming in the air tonight, oh Lord",
+                      "I've been waiting for this moment all my life, oh Lord","tutta la mia vita",
+                      "Can you feel it coming in the air tonight, oh Lord","Well, I remember","I remember, don't worry",
+                      "How could I ever forget?",
+                      "It's the first time, the last time",
+                      "We ever met",
+                      "But I know the reason why you keep your silence up",
+                      "No, you don't fool me",
+                      "Well, the hurt doesn't show", "but the pain still grows",
+                      "It's no stranger to you and me","I can feel it coming in the air tonight, oh Lord",
+                      "I've been waiting for this moment all my life, oh Lord",
+                      "Can you feel it coming in the air tonight, oh Lord"
+],
+        url: "https://www.youtube.com/watch?v=CFDFX4Ao-UY"
+      },{
+        title: "Ain't no Sunshine",
+        subtitle: "Bill Whiters",
+        description:["Ain't no sunshine when she's gone",
+                    "It's not warm when she's away",
+                    "Ain't no sunshine when she's gone",
+                    "And she's always gone too long",
+                    "Anytime she's goes away",
+                    "Wonder this time where she's gone",
+                    "Wonder if she's gone to stay",
+                    "Ain't no sunshine when she's gone",
+                    "And this house just ain't no home",
+                    "Anytime she goes away","And I know, I know, I know, I know....","Hey, I ought to leave young thing alone",
+                    "But ain't no sunshine when she's gone","Only darkness every day",
+                    "Ain't no sunshine when she's gone",
+                    "And this house just ain't no home",
+                    "Anytime she goes away"],
+        url: "https://www.youtube.com/watch?v=C_lX7RoY3k8"
+      },{
+        title: "You Make My dreams",
+        subtitle: "Daryl Hall & John Oates",
+        description:["rock baby!!!!!","What I want you've got",
+                      "And it might be hard to handle",
+                      "Like the flame that burns the candle",
+                      "The candle feeds the flame",
+                      "What I've got's full stock",
+                      "Of thoughts and dreams that scatter",
+                      "You pull them all together",
+                      "And how I can't explain",
+                      "Well, well you", "you make my dreams come true","On a night when bad dreams become a screamer",
+                      "When they're messin with the dreamer",
+                      "I can laugh it in the face",
+                      "Twist and shout my way out",
+                      "And wrap yourself around me",
+                      "Cause I ain't the way you found me",
+                      "And I'll never be the same","I'm down on my daydream",
+                      "Oh that sleepwalk should be over by now I know","Well, well you", "you make my dreams come true"],
+        url: "https://www.youtube.com/watch?v=49BQKU5wflk"
+      },{
+        title: "Layla",
+        subtitle: "Eric Clapton",
+        description:["What'll you do when you get lonely",
+                      "And nobody's waiting by your side?",
+                      "You've been running and hiding much too long",
+                      "You know it's just your foolish pride",
+                      "Layla, you've got me on my knees",
+                      "Layla, I'm begging, darling please",
+                      "Layla, darling won't you ease my worried mind.",
+                    "I tried to give you consolation","When your old man had let you down.",
+"Like a fool, I fell in love with you",
+"Turned my whole world upside down.","Let's make the best of the situation",
+"Before I finally go insane",
+"Please don't say we'll never find a way",
+"And tell me all my love's in vain","Claudiaaaa, you've got me on my knees",
+                      "Claudiaa, I'm begging, darling please",
+                      "Claudiaaa, darling won't you ease my worried mind.",
+],
+        url: "https://www.youtube.com/watch?v=cs-sks4dtww"
+      },{
+        title: "Forever young",
+        subtitle: "Alphaville",
+        description:["Let's dance in style, let's dance for a while",
+                      "Heaven can wait, we're only watching the skies",
+                      "Hoping for the best, but expecting the worst",
+                      "Are you gonna drop the bomb or not?","Let us die young or let us live forever",
+                      "We don't have the power, but we never say never",
+                      "Sitting in a sandpit, life is a short trip",
+                      "The music's for the sad men","Some are like water, some are like the heat",
+                      "Some are a melody and some are the beat","Youth's like diamonds in the sun",
+                      "And diamonds are forever","So many adventures couldn't happen today",
+                      "So many songs we forgot to play",
+                      "So many dreams swinging out of the blue",
+                      "We'll let them come true"
+],
+        url: "https://www.youtube.com/watch?v=-ym0I1D8PfA"
+      },{
+        title: "Sweet Child of mine",
+        subtitle: "Nirvana",
+        description:["She's got a smile that it seems to me",
+"Reminds me of childhood memories",
+"Where everything was as fresh" ,"as the bright blue sky",
+"Now and then, when I see her face",
+"She takes me away to that special place",
+"And if I stared too long", "I'd probably break down and cry","Woah, oh, oh",
+"Sweet child of mine","Sweet love of mine","She's got eyes of the bluest skies",
+"As if they thought of rain",
+"I'd hate to look into those eyes and see an ounce of pain",
+"Her hair reminds me of a warm", "safe place",
+"Where, as a child, I'd hide",
+"And pray for the thunder and the rain to quietly pass me by","Sweet child of mine, ooh, yeah","Sweet love of mine"],
+        url: "https://www.youtube.com/watch?v=qoflJn7zkFM"
+      },{
+        title: "Lady, Here me Tonight",
+        subtitle: "Modjo",
+        description:["Lady, hear me tonight",
+"'Cause my feeling is just so right",
+"As we dance by the moonlight",
+"Can't you see you're my delight?","Lady, I just feel like",
+"I won't get you out of my mind",
+"I feel love for the first time",
+"And I know that it's true",
+"I can tell by the look in your eyes"],
+        url: "https://www.youtube.com/watch?v=-EmfweH9xVw"
+      },{
+        title: "Died in your Arms",
+        subtitle: "Cutting Crew",
+        description:["Oh I, I just died in your arms tonight",
+"It must have been something you said",
+"I just died in your arms tonight","I keep lookin' for somethin' I can't get",
+"Broken hearts lie all around me",
+"And I don't see an easy way to get out of this",
+"Her diary, it sits by the bedside table",
+"The curtains are closed, the cats in the cradle",
+"Who would've thought that a boy like me could come to this","Oh I, I just died in your arms tonight",
+"It must've been something you said",
+"Oh I, I just died in your arms tonight",
+"It must've been some kind of kiss",
+"I should've walked away","It was a long hot night",
+"She made it easy", "she made it feel right",
+"But now it's over", "the moment has gone",
+"I followed my hands not my head, I know I was wrong","Oh I, I just died in your arms tonight",
+"It must've been something you said",
+"Oh I, I just died in your arms tonight",
+"It must've been some kind of kiss"],
+        url: "https://www.youtube.com/watch?v=8ZIOkbrX_uU"
+      },{
+        title: "Locked Away",
+        subtitle: "R.city ft. Adam Levine",
+        description:["Io ti risponderei si a ogni domanda","If I got locked away and we lost it all today",
+                      "Tell me honestly", "would you still love me the same?" ,
+                      "If I showed you my flaws" , "if I couldn't be strong",
+                      "Tell me honestly, would you still love me the same?","Now tell me, would you really ride for me?","Baby, tell me, would you die for me?","Would you spend your whole life with me?","Would you be there to always hold me down?","Tell me, would you really cry for me?","Baby, don't lie to me","If I didn't have anything?",
+                      "I wanna know, would you stick around?","If I got locked away and we lost it all today",
+                      "Tell me honestly", "would you still love me the same?" ,
+                      "If I showed you my flaws" , "if I couldn't be strong",
+                      "Tell me honestly, would you still love me the same?"],
+        url: "https://www.youtube.com/watch?v=0m6O7vzjVro"
+      },{
+        title: "Locked ot of Heaven",
+        subtitle: "Bruno Mars",
+        description:["Never had much faith in love or miracles",
+                      "Never wanna put my heart on the line ",
+                      "But swimming in your water's something spiritual" ,
+                      "I'm born again every time you spend the night","'Cause your sex takes me to paradise",
+                      "Yeah, your sex takes me to paradise",
+                      "And it shows",
+                      "Yeah, yeah, yeah"],
+        url: "https://www.youtube.com/watch?v=OK_b2-w0u60"
+      },{
+        title: "Drive By",
+        subtitle: "Train",
+        description:["On the other side of a street I knew",
+                      "Stood a girl that looked like you",
+                      "I guess that's déjà vu",
+                      "But I thought this can't be true 'cause",
+                      "You moved to west L.A., or New York or Santa Fe",
+                      "Or wherever, to get away from me","Oh, but that one night, was more than just right",
+                      "I didn't leave you 'cause I was all through",
+                      "Oh, I was overwhelmed", "and frankly scared as hell",
+                      "Because I really fell for you",
+                      "Oh, I swear to you", "I'll be there for you",
+                      "This is not a drive by",
+                      "Just a shy guy, looking for a two-ply Hefty bag",
+                      "To hold my love",
+                      "When you move me", "everything is groovy",
+                      "They don't like it sue me", "mhmm the way you do me",
+                      "Oh, I swear to you, I'll be there for you",
+                      "This is not a drive by","Please believe that when I leave",
+                      "There's nothing up my sleeve but love for you",
+                      "And a little time to get my head together too"],
+        url: "https://www.youtube.com/watch?v=maklLfjCO90"
+      }
+      ,{
+        title: "Should i Stay or should i go?",
+        subtitle: "The Clash",
+        description:["Darling, you got to let me know",
+"Should I stay, or should I go?",
+"If you say that you are mine",
+"I'll be here till the end of time",
+"So you got to let me know",
+"Should I stay, or should I go?",
+"It's always tease, tease, tease",
+"You're happy when I'm on my knees",
+"One day it's fine, and next it's black",
+"So if you want me off your back",
+"Well, come on and let me know",
+"Should I stay, or should I go?","This indecision's bugging me",
+"If you don't want me, set me free",
+"Exactly whom I'm supposed to be",
+"Don't you know which clothes even fit me?",
+"Come on and let me know",
+"Should I cool it, or should I blow?"],
+        url: "https://www.youtube.com/watch?v=KPeT0jTcWGU"
+      },{
+        title: "Take on me!",
+        subtitle: "A-ha",
+        description:["We're talking away",
+                      "I don't know what I'm to say",
+                      "I'll say it anyway",
+                      "Today is another day to find you",
+                      "Shyin' away",
+                      "Oh, I'll be comin' for your love, okay",
+                      "Take on me",
+                      "Take me on","I'll be gone",
+                      "In a day or two",
+                      "So needless to say",
+                      "I'm odds and ends",
+                      "But I'll be stumblin' away",
+                      "Slowly learnin' that life is okay",
+                      "Say after me",
+                      "It's no better to be safe than sorry",
+                      "All the things that you say, yeah",
+                      "Is it life or just to play my worries away?",
+                      "You're all the things I've got to remember",
+                      "You're shyin' away",
+                      "I'll be comin' for you anyway",
+                      "sei tu per me","e io sono per te"],
+        url: "https://www.youtube.com/watch?v=kmDBDn8Ju6w"
+      },
+       {
+        title: "Walking The Wire",
+        subtitle: "Imagine Dragons",
+        description:["Do you feel the same when I'm away from you?","Do you know the line that I'd walk for you?","We could turn around or we could give it up","But we'll take what comes, take what comes","Oh, the storm is raging against us now","If you're afraid of falling, then don't look down ","But we took the step, oh, we took the leap","And we'll take what comes, take what comes","We're walking the wire, love,We couldn't be higher up","There's nights we had to just walk away","And there's tears we'll cry, but those tears will fade","It's a price you pay when it comes to love","Oh, I'll take your hand when thunder roars","And I'll hold you close, I'll stay the course","I promise you from up above","That we'll take what comes, take what comes, love","We're walking the wire, love,So, look out down below,We're walking the wire"],
+        url: "https://www.youtube.com/watch?v=1nv9br7P7g0"
+      },{
+        title: "Bitter Sweet Symphony",
+        subtitle: "The Verve",
+        description:["'Cause it's a bittersweet symphony, that's life","I'll take you down the only road I've ever been down","You know the one that takes you to the places where all the veins meet, yeah","No change, I can change, But I'm here in my mold","Have you ever been down?","Well, I've never prayed but tonight I'm on my knees","I let the melody shine, let it cleanse my mind, I feel free now","But the airwaves are clean and there's nobody singin' to me now","And I'm a million different people, From one day to the next","I'll take you down the only road I've ever been down","You know I can change, I can change","I can't change my mold, no, no, no, no"],
+        url: "https://www.youtube.com/watch?v=DGC0a4cby5c"
+      },
+       {
+        title: "Whatever It Takes",
+        subtitle: "Imagine Dragons",
+        description:["Falling too fast to prepare for this","Everybody waiting for the fall of man","Everybody praying for the end of times","Everybody hoping they could be the one","I was born to run, I was born for this","Run me like a racehorse, Pull me like a ripcord","I wanna be the slip Word upon your lip, Letter that you rip","Break me down and build me up","Whatever it takes, 'Cause I love the adrenaline in my veins","I do whatever it takes, 'Cause I love how it feels when I break the chains","Yeah, take me to the top I'm ready for, 'Cause I love the adrenaline in my veins","Always had a fear of being typical, Looking at my body feeling miserable","I wanna be invisible, Looking at my years like a martyrdom","Never be enough, I'm the prodigal son","I was born to run, I was born for this","Working onto something that I'm proud of, out of the box","I'm an apostrophe","I'm just a symbol to remind you that there's more to see","I'm just a product of the system, a catastrophe, And yet a masterpiece","I do what it takes","Yeah, take me to the top, I'm ready for whatever it takes, 'Cause I love the adrenaline in my veins"],
+        url: "https://www.youtube.com/watch?v=UsuF4jJ4sgA"
+      },{
+        title: "More than a feeling",
+        subtitle: "Boston",
+        description:["Turned on some music to start my day, I lost myself in a familiar song","I closed my eyes and I slipped away","It's more than a feeling, When I hear that old song they used to play", "I begin dreaming, 'Til I see Marianne walk away, I see my Marianne walkin' away","So many people have come and gone, Their faces fade as the years go by","Yet I still recall as I wander on, As clear as the sun in the summer sky", "I hide in my music, forget the day, and dream of a girl I used to know","I closed my eyes and she slipped away, She slipped away","It's more than a feeling, When I hear that old song they used to play", "I begin dreaming, 'Til I see my Marianne walkin' away"],
+        url: "https://www.youtube.com/watch?v=gwIQpmXc_ZA"
+      },{
+        title: "My Only Angel",
+        subtitle: "Aerosmith, YUNGBLUD",
+        description:["Would you cry if I called you my angel?","Gotta leave, gotta leave, gotta leave you one more time","My pretty little poison","I'll taste you in the morning","Drink you in the evening","Won't rest 'til I find you","won't rest 'til I light you one last time","Take it when you want it","Never when you need it","Meet up in an island","Tell me all your problems one last time","You say you wanna keep me around your little finger","Don't know where you'll find me" ,"But I hope that you'll find me one last time","I had to face the fact that I should let you know","That after all this time","The show will still go on","But I need a little something to remember you by","Would you cry, my only angel?","Gotta leave, gotta leave, gotta leave you far behind"],
+        url: "https://www.youtube.com/watch?v=bTOWDRL1KbA"
+      },{
+        title: "So Lonely",
+        subtitle: "Police",
+        description:["Well someone told me yesterday","That when you throw your love away","You act as if you just don't care","But I just can't convince myself","I couldn't live with no one else","And I can only play that part","And sit and nurse my broken heart","Now no one's knocked upon my door","For a thousand years or more","All made up and nowhere to go","Welcome to this one man show","Just take a seat they're always free","In this theater that I call my soul, I always play the starring role"],
+        url: "https://www.youtube.com/watch?v=60M_yIDzMcw"
+      },
+       {
+        title: "Lovesick",
+        subtitle: "Maroon 5",
+        description:["Lovesick, you know I can't fight it anymore","'Cause I love it, the way my heart drops to the floor","I've been searchin' high and low","Baby, baby, where'd you go?","My starlight, my firefly","Like all night, my whole life","For someone like you to really take my breath away","And I can't be lonely, no","You gon' be the death of me","You got me lovesick, But I love it ","Lovesick, I'm falling, I can't be trusted","If that's what you want, then rush in, Trust me when I say, I want this, want this","'Cause I love it, the way my heart drops to the floor, You got me lovesick, lovesick (but I love it)"],
+        url: "https://www.youtube.com/watch?v=zAVqPCuYN4k"
+      },
+       {
+        title: "Maps",
+        subtitle: "Maroon 5",
+        description:["I miss the taste of a sweeter life","I miss the conversation","I like to think that we had it all, We drew a map to a better place","But on that road, I took a fall","Oh, baby, why did you run away?","I hear your voice in my sleep at night, Hard to resist temptation","'Cause something strange has come over me, And now, I can't get over you","So I'm following the map that leads to you, Ain't nothing I can do"],
+        url: "https://www.youtube.com/watch?v=_sIeccYNLKI"
+      },,
+      {
+        title: "Fairytale",
+        subtitle: "Alexander Rybak",
+        description:["Years ago, when I was younger","I kinda liked a girl I knew","She was mine and we were sweethearts","That was then, but then it's true","I'm in love with a fairytale, Even though it hurts","'Cause I don't care if I lose my mind, I'm already cursed","Every day, we started fighting","Every night, we fell in love","No one else could make me sadder","But no one else could lift me high above","I don't know what I was doing, When suddenly, we fell apart","Nowadays, I cannot find her, But when I do, we'll get a brand new start","I'm in love with a fairytale, Even though it hurts","'Cause I don't care if I lose my mind, I'm already cursed"],
+        url: "https://www.youtube.com/watch?v=1rVY08gRGmA"
+      },
+       {
+        title: "Next to Me",
+        subtitle: "Imagine Dragons",
+        description:["Something about the way that you","walked into my living room","Casually and confident, looking at the mess I am","But still you, still you want me?","There's something about the way that you, always see the pretty view","Overlook the blooded mess","Always looking effortless","And still you, still you want me?","I got no innocence, faith ain't no privilege","Stress lines and cigarettes","politics, and deficits","But still you, still you want me?","Oh, I always let you down","You're shattered on the ground","Still, I find you there, Next to meeee","And ooooh, stupid things I do","I'm far from good, it's true","But still, I find you, Neeeeext to me","So thank you, for taking a chance on me","I know it isn't easy, But I hope to be worth it"],
+        url: "https://www.youtube.com/watch?v=-C_rvt0SwLE"
+      },{
+        title: "Every breath you take",
+        subtitle: "Police",
+        description:["Every breath you take And every move you make","Every step you take, Every bond you break","Every single day And every word you say","Every game you play, Every night you stay","Oh, can't you see You belong to me?","How my poor heart aches with every step you take?","I dream at night, I can only see your face","I look around, but it's you I can't replace","I feel so cold, and I long for your embrace","Every move you make, Every step you take, I'll be watching you"],
+        url: "https://www.youtube.com/watch?v=FXozwCdSLb0"
+      },
+       {
+        title: "Cant help Falling in Love",
+        subtitle: "Elvis Presley",
+        description:["Wise men say...","Only fools rush in","But I can't help","Falling in love with you","Shall I stay? Would it be a sin?","Like a river flows surely to the sea","Darling, so it goes","Some things are meant to be","Take my hand","Take my whole life, too","For I can't help falling in love with you"],
+        url: "https://www.youtube.com/watch?v=MqazV4hbu8E"
+      },
+       {
+        title: "Birds",
+        subtitle: "Imagine Dragons",
+        description:["Two hearts, one valve","Two lives, one life","Sticking it out, letting you down, making it right","Seasons, they will change","Life will make you grow","Dreams will make you cry","Everything is temporary, everything will slide","Love will never dieeee","I know that,ooooooooohhh, birds fly in different directions","Oooooh I hope to see you again","Some nights, I think of you","Reliving the past, wishing it'd last, wishing and dreaming","When the moon is looking down, Shining light upon your ground","I'm flying up to let you see, That the shadow cast is me","I know that, birds fly in different directions, Oh I hope to see you again, so fly high, so fly high"],
+        url: "https://www.youtube.com/watch?v=XPRvQzu5KLI"
+      },
+       {
+        title: "What Lovers Do",
+        subtitle: "Maroon 5",
+        description:["Said let's get one thing straight now, baby","Tell me, tell me if you love me or not","I'll bet the house on you, am I lucky or not?","Been wishin' for you, am I lucky or not?","Lucky or not, lucky or not?","Been wishin' for you, Ooh, ooh Tryna do what lovers do","You gon' make me hit you with that laydown, baby","You know what I need, out the gate now, baby","Aren't we too grown for games?","Aren't we too grown to play around?","Young enough to chase","But old enough to know better","Are we too grown for changin'?","Are we too grown to mess around?","Ooh, and I can't wait forever, baby","Both of us should know better","Been wishin' for you, Tryna do what lovers do"],
+        url: "https://www.youtube.com/watch?v=5Wiio4KoGe8"
+      },{
+        title: "Stray Heart",
+        subtitle: "Green Day",
+        description:["I lost my way, oh baby, this stray heart","Went to another, Can you recover, baby?","Oh, you're the only one that I'm dreamin' of","Your precious heart, Was torn apart by me","And you, you're not alone","And now I'm where I belong","I'll hold your heart and never let go","Everything that I want, I want from you","But I just can't have you","I said a thousand times, and now a thousand one","We'll never part","I'll never stray again from you","This dog is destined for a home to your heart","And you, you're not alone","And now I'm where I belong","I'll hold your heart and never let go","Everything that I want, I want from you","But I just can't have you"],
+        url: "https://www.youtube.com/watch?v=P2GFl6bM4Wo"
+      },{
+        title: "Follow you",
+        subtitle: "Imagine Dragons",
+        description:["You know I got your number, number all night","I'm always on your team","I got your back alright","taking those losses if it treats you right","I want to put you into the spotlight","If the world would only know","what you've been holding back","Heart attacks every night","Oh, you know it's not right","I will follow you way down wherever you may go","I'll follow you way down to your deepest low","I'll always be around wherever life takes you","You know I'll follow you","Call you up, you've been cryin', cryin' all night","You're only disappointed in yourself, alright","I wanna take you into the sunlight","You're not the type to give yourself enough love","I wish that I could fix it, I could fix it for you","But instead I'll be right here comin' through","I will follow you way down wherever you may go","I'll follow you way down to your deepest low","I'll always be around wherever life takes you","You know I'll follow you"],
+        url: "https://www.youtube.com/watch?v=1DoI5WTjd3w"
+      },{
+        title: "Hey soul sister",
+        subtitle: "Train",
+        description:["I knew I wouldn't forget you","And so I went and let you blow my mind","The smell of you in every single dream I dream","I knew when we collided, You're the one I had decided who's one of my kind","Hey, soul sister, The way you move ain't fair you know","I don't wanna miss a single thing you do tonight","You gave my life direction, A game show love connection we can't deny","I'm so obsessed, My heart is bound to beat right out of my untrimmed chest","I believe in you, like a virgin you're madonna, And I'm always gonna wanna blow your mind","So gangsta, I'm so thug, You're the only one I'm dreaming of","I want the world to see You'll be with me","Hey, soul sister, i don't wanna miss a single thing you dooooooo..."],
+        url: "https://www.youtube.com/watch?v=Iurs-gVL48Y"
+      },{
+        title: "Counting Stars",
+        subtitle: "OneRepublic",
+        description:["Lately, I been, I been losin' sleep","Dreamin' about the things that we could be","But baby, I been, I been prayin' hard, Said, no more countin' dollars, we'll be countin' stars","Old, but I'm not that old, Young, but I'm not that bold","And I don't think the world is sold on just doin' what we're told","I feel somethin' so right doin' the wrong thing","And I feel somethin' so wrong doin' the right thing","I couldn't lie, Everything that kills me makes me feel alive (tu )","I feel your love, and I feel it burn","Down this river, every turn","Make that money, watch it burn","Said, no more countin' dollars, we'll be countin' stars"],
+        url: "https://www.youtube.com/watch?v=yY3wc58yo2A"
+      },{
+        title: "Do i Wanna Know?",
+        subtitle: "Artic Monkeys",
+        description:["Are there some aces up your sleeve? ","Have you no idea that you're in deep?","I've dreamt about you nearly every night this week","'Cause there's this tune I found","That makes me think of you somehow an' I play it on repeat","Do I wanna know? If this feelin' flows both ways?","Sad to see you go, Was sorta hopin' that you'd stay","Baby, we both know, That the nights were mainly made","For saying things that you can't say tomorrow day","Ever thought of calling when you've had a few? 'Cause I always do","Maybe I'm too busy being yours to fall for somebody new","Now, I've thought it through","So, have you got the guts?","Been wondering if your heart's still open","And if so, I wanna know what time it shuts","I don't know if you feel the same as I do","But we could be together if you wanted to","Was sorta hoping that you'd stay","Too busy being yours to fall, Do you want me crawling back to you?"],
+        url: "https://www.youtube.com/watch?v=PUL2mVdt3xo"
+      },{
+        title: "Dont Cry",
+        subtitle: "Guns And Roses",
+        description:["Talk to me softly","There's something in your eyes","Don't hang your head in sorrow","And please don't cry","I know how you feel inside, I, I've been there before","Something is changing inside you, And don't you know?","Don't you cry tonight","I still love you, baby","Don't you cry tonight","There's a heaven above you, baby","Give me a whisper,And give me a sigh","Give me a kiss, before you tell me goodbye","Don't you take it so hard now","And please don't take it so bad","I'll still be thinking of you and the times we had, baaaaaaaby","And please remember that I never lied","and please remember how I felt inside","You got to make it your own way","But you'll be alright now, sugar","You'll feel better tomorrow","Come the morning light now, baby","Don't you cry tonight, There's a heaven above you, baby","And don't you cry, don't you ever cry","Don't you cry tonight"],
+        url: "https://www.youtube.com/watch?v=x2W0P9PDU9U"
+      },
+       {
+        title: "It could have been me",
+        subtitle: "The Struts",
+        description:["Don't wanna live as an untold story","Rather go out in a blaze of glory","I can't hear you, I don't fear you","I'll live now 'cause the bad die last","Dodging bullets with your broken past","I can't hear you, I don't fear you, now","Wrapped in your regret, What a waste of blood and sweat oh oh oh","I wanna taste love and pain","Wanna feel pride and shame","I don't wanna take my time, Don't wanna waste one line","I wanna live better days","Never look back and say","Could have been me, it could have been me","Don't wanna live as an unsung melody","I'd rather listen to the silence telling me","I can't hear you, I won't fear you","What a waste of blood and sweat","I wanna taste love and pain","Wanna feel pride and shame","I don't wanna take my time, Don't wanna waste one line","I wanna live better days","Never look back and say","Could have been me, it could have been me"],
+        url: "https://www.youtube.com/watch?v=ARhk9K_mviE"
+      },
+       {
+        title: "I dont wanna miss a thing",
+        subtitle: "Aerosmith",
+        description:["I could stay awake just to hear you breathing","Watch you smile while you are sleeping","While you're far away and dreaming","I could spend my life in this sweet surrender","I could stay lost in this moment forever","Where a moment spent with you is a moment I treasure","Don't wanna close my eyes","I don't wanna to fall asleep","'Cause I'd miss you baby","And I don't wanna miss a thing","Lying close to you, feeling your heart beating (assai)","And I'm wondering what you're dreaming","Wondering if it's me you're seeing","Then I kiss your eyes, And thank God we're together","And I just wanna stay with you","In this moment forever,Forever and ever","I don't wanna miss one smile And I don't wanna miss one kiss","And I just wanna be with you","And I just wanna hold you close","I feel your heart so close to mine","And just stay here in this moment, For all the rest of time","I Don't wanna close my eyes","I don't wanna to fall asleep","'Cause I'd miss you baby","And I don't wanna miss a thing"],
+        url: "https://www.youtube.com/watch?v=T-doQhcwDS8"
+      },
+       {
+        title: "Secrets",
+        subtitle: "One Republic",
+        description:["I need another story, Something to get off my chest","My life gets kinda boring, Need something that I can confess","Come by it honestly, I swear","Thought you saw me wink, no, I've been on the brink","So tell me what you want to hear","Something that will light those ears","I'm sick of all the insincere","So I'm gonna give all my secrets away","My God, amazing how we got this far","It's like we're chasing all those stars","And every day I see the news, All the problems that we could solve","This time, Don't need another perfect lie","Got no reason, got no shame","Got no family I can blame","Just don't let me disappear","I'ma tell you everything","So tell me what you want to hear","Something that will light those ears","I'm sick of all the insincere","So I'm gonna give all my secrets away"],
+        url: "https://www.youtube.com/watch?v=ZFGDRzyPXE0"
+      },
+      {
+        title: "happy together",
+        subtitle: "the turtles",
+        description:["Imagine me and you, I do","I think about you day and night, it's only right","To think about the girl you love and hold her tight","So happy together","And you say you belong to me, and ease my mind","Imagine how the world could be, so very fine","So Happy toghether","I can't see me lovin' nobody but you","For all my life","When you're with me, baby, the skies'll be blue, for all my life","Me and you, and you and me, No matter how they toss the dice, it had to be","The only one for me is you, and you for me","So happy together"],
+        url: "https://www.youtube.com/watch?v=WiPcgmSQ5uI"
+      },
+       {
+        title: "Cliche",
+        subtitle: "MGK",
+        description:["Tell me, would you wait for me? Baby, I'm a rolling stone","I got a lotta right in me, But I don't wanna say this wrong","Tell me, would you stay with me?, Maybe we could make this home","You should run away with me","Even if you're better off alone","I like that you like me","I kissed your lips, you got good taste","I could close my eyes and draw your face","If you take this chance, I'll give you oxygen to breathe me in","But I'll say sorry in advance","My head's a mess, It's like that every day","I'll try my best, It sounds cliché, but","Tell me, would you wait for me? Baby, I'm a rolling stone","I got a lotta right in me, But I don't wanna say this wrong","Tell me, would you stay with me?, Maybe we could make this home","You should run away with me","Even if you're better off alone"],
+        url: "https://www.youtube.com/watch?v=pAVkr5SG02s"
+      },
+       {
+        title: "Come and get your love",
+        subtitle: "Redbone",
+        description:["Hey (hey) what's the matter with your head, yeah"," with your mind and your sign and oh","Baby, find it, come on and find it","'cause you're fine, And you're mine, and you look so divine","Come and get your love","Come and get your love"],
+        url: "https://www.youtube.com/watch?v=wFwYcHjP-YU"
+      },,
+       {
+        title: "im a Believer",
+        subtitle: "Smash Mouth",
+        description:["I thought love was only true in fairy tales","Meant for someone else but not for me","Love was out to get me, That's the way it seemed","Disappointment haunted all my dreams","And then I saw her face, Now I'm a believer","And not a trace, Of doubt in my mind","I'm in love","I'm a believer, I couldn't leave her if I tried","I thought love was more or less a giving thing","The more I gave the less I got, oh yeah","What's the use in trying? All you get is pain","When I wanted sunshine I got rain","And then I saw her face, Now I'm a believer","And not a trace, Of doubt in my mind","I'm in love","I'm a believer, I couldn't leave her if I tried"],
+        url: "https://www.youtube.com/watch?v=bWqmc8qxEps"
+      },{
+        title: "Living on a Prayer",
+        subtitle: "Bon Jovi",
+        description:["It's tough,so tough","She brings home her pay, for love, oh love","She says, We've gotta hold on to what we've got","It doesn't make a difference if we make it or not","We got each other, and that's a lot for love","We'll give it a shot","Oh, we're halfway there","oh, livin' on a prayer","Take my hand, we'll make it, I swear","ohhhh , living on a prayer"],
+        url: "https://www.youtube.com/watch?v=2ognf_oRQWM"
+      },
+       {
+        title: "The reason",
+        subtitle: "Hoobastank",
+        description:["I'm not a perfect person","There's many things I wish I didn't doooo","But I continue learning","I never meant to do those things to youuuuu","And so I have to say before I go","That I just want you to knoooow","I've found a reason for me","To change who I used to be","A reason to start over newwwwww","And the reason is you","I'm sorry that I hurt youuuu","It's somethin' I must live with every day","And all the pain I put you through","I wish that I could take it all awayyy","And be the one who catches all your teeeeears","That's why I need you to hear","I've found a reason for me","To change who I used to be","A reason to start over newwwwww","And the reason is you"],
+        url: "https://www.youtube.com/watch?v=-F9nCQtxkRw"
+      },
+       {
+        title: "Since i dont have you",
+        subtitle: "Guns And Roses",
+        description:["I don't have plans and schemes","And I don't have hopes and dreams","I, I, I don't have anything","Since, i don't have youuuuuuu","And I don't have fond desires","And I don't have happy hours","I, I, I don't have anything","Since, i don't have youuuuuuu","Happiness and I guess","I never will again","When you walked out on me","In walked old misery","And he's been here since theeeeen","I don't have love to share","And I don't have one who cares","I, I, I don't have anything","Since I don't have youuuuu (non sono così tragico (forse), ma che canzone)"],
+        url: "https://www.youtube.com/watch?v=x2W0P9PDU9U"
+      },
+       {
+        title: "Narcotic",
+        subtitle: "Liquido",
+        description:["So you face it with a smile","There is no need to cry","Will you still recall my name","And the month it all began?","Will you release me with a kiss?","If I have, how could I fail?","Did I fear the consequence?","Dazed by careless words, Cozy in my mind","I don't mind, I think so","I will let you go","Now you shaped that liquid wax","Sweet devotion, my delight","Oh, you're such a pretty one","And the naked thrills of flesh and skin","Would tease me through the night","Now, I hate to leave you bare","If you need me, I'll be there","Don't you ever let me down","And I touched your face","And I called your name","Like an addicted to cocaine calls for the stuff he'd rather blame.","And I called your name, My cocaine...","I don't mind,I think so","I will let you go."],
+        url: "https://www.youtube.com/watch?v=X2Md9upR2K0"
+      }
+       
+ 
     ]
   },
   {
