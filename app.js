@@ -198,12 +198,18 @@ document.addEventListener("DOMContentLoaded", () => {
 // --- PLAYLIST SECTION ---
 let currentPlaylist = 0;
 let currentSong = 0;
+let isListView = false;
 
-// cache per salvare l'ordine random di ogni playlist
+document.getElementById('toggleView').addEventListener('change', (e) => {
+  isListView = e.target.checked;
+  renderPlaylist();
+});
+
+// shuffle cache (se vuoi usarla dopo)
 const shuffledPlaylists = {};
 
 function shuffleArray(array) {
-  const arr = [...array]; // copia per non modificare originale
+  const arr = [...array];
   for (let i = arr.length - 1; i > 0; i--) {
     const j = Math.floor(Math.random() * (i + 1));
     [arr[i], arr[j]] = [arr[j], arr[i]];
@@ -223,24 +229,64 @@ function renderPlaylist() {
   const playlist = STORE.playlistSection[currentPlaylist];
   if (!playlist) return;
 
-  // crea shuffle SOLO la prima volta per questa playlist
-  if (!shuffledPlaylists[currentPlaylist]) {
-    shuffledPlaylists[currentPlaylist] = shuffleArray(playlist.songs);
-  }
-
   document.getElementById('playlistInfo').innerHTML = `
     <h3>${playlist.name}</h3>
     <p>${playlist.description}</p>
   `;
 
-  currentSong = 0;
-  renderSong();
+  if (isListView) {
+    renderSongsList();
+    document.querySelector('.songs-slider-controls').style.display = 'none';
+  } else {
+    // ✅ NON resettare currentSong
+    renderSong();
+    document.querySelector('.songs-slider-controls').style.display = 'block';
+  }
+}
+
+function renderSongsList() {
+  const playlist = STORE.playlistSection[currentPlaylist];
+  const container = document.getElementById('songsSlider');
+
+  container.innerHTML = "";
+
+  const list = document.createElement('div');
+  list.classList.add('songs-list');
+
+  playlist.songs.forEach((song, index) => {
+    const thumb = getYouTubeThumbnail(song.url);
+
+    const item = document.createElement('div');
+    item.classList.add('song-item');
+
+    item.innerHTML = `
+      <img src="${thumb}" alt="${song.title}">
+      <p>${song.title}</p>
+    `;
+
+    item.addEventListener('click', () => {
+      currentSong = index;        // ✅ salva correttamente
+      isListView = false;
+
+      document.getElementById('toggleView').checked = false;
+
+      renderPlaylist();           // → ora aprirà la canzone giusta
+    });
+
+    list.appendChild(item);
+  });
+
+  container.appendChild(list);
 }
 
 function renderSong() {
   const playlist = STORE.playlistSection[currentPlaylist];
   const song = playlist.songs[currentSong];
-  if (!song) return;
+
+  if (!song) {
+    document.getElementById('songsSlider').innerHTML = "<p>Nessuna canzone</p>";
+    return;
+  }
 
   const container = document.getElementById('songsSlider');
   const oldContent = container.firstElementChild;
@@ -249,22 +295,22 @@ function renderSong() {
 
   const newContent = document.createElement('div');
   newContent.classList.add('song-enter');
-  newContent.innerHTML = `<div class=songThumb>
-    <h4>${song.title}</h4>
-    <p>${song.subtitle}</p>
-    ${thumb ? `
+
+  newContent.innerHTML = `
+    <div class="songThumb">
+      <h4>${song.title}</h4>
+      <p>${song.subtitle}</p>
       <a href="${song.url}" target="_blank">
         <img src="${thumb}" style="width:250px; border-radius:8px; cursor:pointer;">
       </a>
-      </div>
-      <div class="SongDesc"> 
+    </div>
+    <div class="SongDesc"> 
       <h4>Dedicata a te.</h4> 
       <h5>Il mio messaggio in questa canzone</h5>
-      ${song.description.map(line => `<p>${line}</p>`).join('')}</div>
-    ` : ""}
+      ${song.description.map(line => `<p>${line}</p>`).join('')}
+    </div>
   `;
 
-  // animazione uscita
   if (oldContent) {
     oldContent.classList.add('song-exit-active');
 
@@ -272,11 +318,10 @@ function renderSong() {
       container.innerHTML = "";
       container.appendChild(newContent);
 
-      // trigger animazione entrata
       requestAnimationFrame(() => {
         newContent.classList.add('song-enter-active');
       });
-    }, 400); // durata animazione
+    }, 400);
   } else {
     container.appendChild(newContent);
     requestAnimationFrame(() => {
@@ -288,15 +333,17 @@ function renderSong() {
 // CONTROLLI PLAYLIST
 document.getElementById('prevPlaylist').addEventListener('click', () => {
   currentPlaylist = (currentPlaylist - 1 + STORE.playlistSection.length) % STORE.playlistSection.length;
+  currentSong = 0; // ✅ reset solo quando cambi playlist
   renderPlaylist();
 });
 
 document.getElementById('nextPlaylist').addEventListener('click', () => {
   currentPlaylist = (currentPlaylist + 1) % STORE.playlistSection.length;
+  currentSong = 0; // ✅ reset solo qui
   renderPlaylist();
 });
 
-// CONTROLLI CANZONI
+// CONTROLLI CANZONI (random)
 document.getElementById('nextSong').addEventListener('click', () => {
   const songs = STORE.playlistSection[currentPlaylist].songs;
 
